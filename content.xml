@@ -56,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1787556687026</value>
+    <value>1788451468321</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -102,6 +102,30 @@
       <key>titlePage</key>
       <value>S4 - Matemáticas 6p</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>S4 - Matemáticas 6p</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
@@ -111,6 +135,26 @@
       <iconName>udl_exp_cuestionario</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -141,6 +185,18 @@
           <jsonProperties><![CDATA[{"textTextarea":"<p>\n<script type=\"text/javascript\"> \n  $(window).load(function(){\n    $.each([1,2,3], function(index , value ) {\n $(\"p.toggle-idevice a\").eq(value).click();\n    })\n  });\n</script>\n</p>\n<ol>\n<li><a href=\"exe-node:page-mt6x3dke-ghg9pj2tg\">Los números racionales</a></li>\n<li><a href=\"exe-node:page-mt6x3dke-0ftmbxyry\">Potencias y raíces</a></li>\n<li><a href=\"exe-node:page-mt6x3dke-egi9s8e7i\">Triángulos rectángulos: el teorema de Pitágoras.</a></li>\n<li><a href=\"exe-node:page-mt6x3dke-r5m7wmhb6\">Proporcionalidad y la función afín</a></li>\n<li><a href=\"exe-node:page-mt6x3dke-fli2gjlxn\">Sistemas de ecuaciones</a></li>\n<li><a href=\"exe-node:page-mt6x3dke-9b76erf83\">Polinomios</a></li>\n<li><a href=\"exe-node:page-mt6x3dke-m2ze01lb9\">Semejanza de triángulos: trigonometría. La circunferencia</a></li>\n<li><a href=\"exe-node:page-mt6x3dke-p2v4f64j9\">Probabilidad y estadística</a></li>\n<li><a href=\"exe-node:page-mt6x3dke-o6yhsnpuw\">Vectores</a></li>\n</ol>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -185,6 +241,18 @@
           <jsonProperties><![CDATA[{"textTextarea":"<p>Puedes descargar el syllabus oficial de la materia en el siguiente enlace:</p>\n<p><a href=\"https://www.eursc.eu/Syllabuses/2019-01-D-49-en-4.pdf\" target=\"_blank\" rel=\"noopener\">https://www.eursc.eu/Syllabuses/2019-01-D-49-en-4.pdf</a></p>\n<p></p>"}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -427,6 +495,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-mt6x3dkg-n7pm3kv42","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"2\" class=\"exe-table\" style=\"width: 70%; margin: auto;\">\n<tbody>\n<tr>\n<td colspan=\"3\"><strong>Planning Math S4MA6</strong></td>\n<td><strong>2026-2027</strong></td>\n</tr>\n<tr>\n<td>Mes</td>\n<td>Semana</td>\n<td colspan=\"2\">Tema</td>\n</tr>\n<tr>\n<td rowspan=\"4\">septiembre</td>\n<td>1</td>\n<td colspan=\"2\">Álgebra: Números reales</td>\n</tr>\n<tr>\n<td>2</td>\n<td colspan=\"2\">Álgebra: Radicales y radicales simples</td>\n</tr>\n<tr>\n<td>3</td>\n<td colspan=\"2\">Álgebra: Radicales y radicales simples</td>\n</tr>\n<tr>\n<td>4</td>\n<td colspan=\"2\">Álgebra: Potencias y expresiones algebraicas</td>\n</tr>\n<tr>\n<td rowspan=\"4\">octubre</td>\n<td>5</td>\n<td colspan=\"2\">Álgebra: Potencias y expresiones algebraicas</td>\n</tr>\n<tr>\n<td>6</td>\n<td colspan=\"2\">Teorema de Pitágoras</td>\n</tr>\n<tr>\n<td>7</td>\n<td colspan=\"2\">Teorema de Pitágoras</td>\n</tr>\n<tr>\n<td>8</td>\n<td colspan=\"2\">Homotecia / Escalado</td>\n</tr>\n<tr>\n<td rowspan=\"5\">noviembre</td>\n<td></td>\n<td colspan=\"2\"><strong>VACACIONES</strong></td>\n</tr>\n<tr>\n<td>9</td>\n<td colspan=\"2\">Homotecia / Escalado</td>\n</tr>\n<tr>\n<td>10</td>\n<td colspan=\"2\">Triángulos congruentes y semejantes</td>\n</tr>\n<tr>\n<td>11</td>\n<td colspan=\"2\">Razones trigonométricas</td>\n</tr>\n<tr>\n<td>12</td>\n<td colspan=\"2\">Razones trigonométricas</td>\n</tr>\n<tr>\n<td rowspan=\"5\">diciembre</td>\n<td>13</td>\n<td colspan=\"2\">Propiedades de la circunferencia / Triángulos rectángulos</td>\n</tr>\n<tr>\n<td>14</td>\n<td colspan=\"2\">Propiedades de la circunferencia / Triángulos rectángulos</td>\n</tr>\n<tr>\n<td>15</td>\n<td colspan=\"2\">Proporcionalidad + Modelos lineales: relaciones y funciones</td>\n</tr>\n<tr>\n<td></td>\n<td colspan=\"2\"><strong>VACACIONES</strong></td>\n</tr>\n<tr>\n<td></td>\n<td colspan=\"2\"><strong>VACACIONES</strong></td>\n</tr>\n<tr>\n<td rowspan=\"4\">enero</td>\n<td>16</td>\n<td colspan=\"2\">Relaciones y funciones</td>\n</tr>\n<tr>\n<td>17</td>\n<td colspan=\"2\"><strong>Funciones lineales</strong></td>\n</tr>\n<tr>\n<td>18</td>\n<td colspan=\"2\">Funciones lineales</td>\n</tr>\n<tr>\n<td>19</td>\n<td colspan=\"2\">Funciones lineales</td>\n</tr>\n<tr>\n<td rowspan=\"4\">febrero</td>\n<td>20</td>\n<td colspan=\"2\">Polinomios</td>\n</tr>\n<tr>\n<td></td>\n<td colspan=\"2\"><strong>VACACIONES</strong></td>\n</tr>\n<tr>\n<td>21</td>\n<td colspan=\"2\">Polinomios</td>\n</tr>\n<tr>\n<td>22</td>\n<td colspan=\"2\">Polinomios</td>\n</tr>\n<tr>\n<td rowspan=\"4\">marzo</td>\n<td>23</td>\n<td colspan=\"2\">Sistemas de ecuaciones</td>\n</tr>\n<tr>\n<td>24</td>\n<td colspan=\"2\">Sistemas de ecuaciones</td>\n</tr>\n<tr>\n<td>25</td>\n<td colspan=\"2\">Sistemas de ecuaciones</td>\n</tr>\n<tr>\n<td></td>\n<td colspan=\"2\"><strong>VACACIONES</strong></td>\n</tr>\n<tr>\n<td rowspan=\"4\">abril</td>\n<td></td>\n<td colspan=\"2\"><strong>VACACIONES</strong></td>\n</tr>\n<tr>\n<td>26</td>\n<td colspan=\"2\">Reserva / Recuperación</td>\n</tr>\n<tr>\n<td>27</td>\n<td colspan=\"2\">Vectores</td>\n</tr>\n<tr>\n<td>28</td>\n<td colspan=\"2\">Vectores</td>\n</tr>\n<tr>\n<td rowspan=\"4\">mayo</td>\n<td>29</td>\n<td colspan=\"2\">Vectores</td>\n</tr>\n<tr>\n<td>30</td>\n<td colspan=\"2\">Jue y vie libre Probabilidad</td>\n</tr>\n<tr>\n<td>31</td>\n<td colspan=\"2\">Jue + vie Ascensión Probabilidad</td>\n</tr>\n<tr>\n<td></td>\n<td colspan=\"2\"><strong>VACACIONES</strong></td>\n</tr>\n<tr>\n<td rowspan=\"6\">junio</td>\n<td>32</td>\n<td colspan=\"2\">Estadística</td>\n</tr>\n<tr>\n<td>33</td>\n<td colspan=\"2\">Estadística</td>\n</tr>\n<tr>\n<td>34</td>\n<td colspan=\"2\">Estadística</td>\n</tr>\n<tr>\n<td>35</td>\n<td colspan=\"2\">Reserva (o programación S5)</td>\n</tr>\n<tr>\n<td>36</td>\n<td colspan=\"2\">Mar 23 Día Nacional</td>\n</tr>\n<tr>\n<td>37</td>\n<td colspan=\"2\">Fin</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>2</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -478,6 +558,18 @@
           <jsonProperties><![CDATA[{"textTextarea":"<h2>Materiales Generales</h2>\n<ul>\n<li><a href=\"https://www.educa2.madrid.org/web/matesatulado\" target=\"_blank\" rel=\"noopener\">Mates a tu lado</a>: mí web española, con materiales por asignaturas del currículo español y muchas otras cosas. También está mi web personal antigua, por si alguien tiene curiosidad ;)</li>\n<li>Canales de vídeos de Manuel D. Romero:<a href=\"https://mediateca.educa.madrid.org/usuario/mdominguezromero\"> mediateca de EducaMadrid</a> y <a href=\"https://www.youtube.com/Matesatulado\" target=\"_blank\" rel=\"noopener\">YouTube</a>.</li>\n<li>Web de <a href=\"https://www.alfonsogonzalez.es/index.html\" target=\"_blank\" rel=\"noopener\">Alfonso González</a>: desarrollos de temas por unidad, junto con listado de problemas y demás contenidos valiosos.</li>\n<li>Canal de YouTube <a href=\"https://www.youtube.com/@pildorasmatematicas9582\" target=\"_blank\" rel=\"noopener\">Píldoras Matemáticas</a>, con vídeos en español de una calidad extraordinaria, enfocados al syllabus español, pero muy exhaustivos.</li>\n<li>Web de <a href=\"https://barsamian.am/\" target=\"_blank\" rel=\"noopener\">Barsamian</a>: contenidos de Syllabus de Escuelas Europeas, con ejemplos de exámenes de COMPOS y BACs. Excelente fuente de consulta.</li>\n</ul>\n<h2>Redes Sociales</h2>\n<p>Y si quieres consultar mi red social Bluesky, este es el enlace: <a href=\"https://bsky.app/profile/palindromiano.bsky.social\" target=\"_blank\" rel=\"noopener\">@palindromiano</a></p>"}]]></jsonProperties>
           <odeComponentsOrder>3</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -494,6 +586,30 @@
       <key>titlePage</key>
       <value>Tema 1 - Los números racionales. </value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tema 1 - Los números racionales. </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
@@ -503,6 +619,26 @@
       <iconName>udl_exp_lee</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -549,6 +685,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties><![CDATA[{"textTextarea":"<p>\n<script>\n$(function() {\n$(\"p.toggle-idevice a\").click();\n});\n</script>\n</p>\n<h4>Cálculos básicos en el conjunto de los racionales \\( \\mathbb{Q} \\)</h4>\n<ul>\n<li>Cálculos básicos: suma, resta, multiplicación, división, comparación</li>\n</ul>\n<h4>Reglas y propiedades de cálculo</h4>\n<ul>\n<li>Aplicación de reglas y propiedades de cálculo aprendidas en niveles previos</li>\n<li>Uso en expresiones algebraicas y numéricas simples</li>\n</ul>\n<h4>Números primos</h4>\n<ul>\n<li>Factorización en números primos</li>\n<li>Aplicaciones de MCD y mcm (HCF y LCM)</li>\n<li>Análisis de factores, múltiplos y números primos con y sin tecnología</li>\n</ul>\n<h4>Notación \\( \\Delta \\) y \\( \\Sigma \\)</h4>\n<ul>\n<li>Significado de \\( \\Delta \\) (diferencia) y \\( \\Sigma \\) (suma)</li>\n<li>Ejemplos elementales de uso de estas notaciones</li>\n</ul>\n<h4>Números racionales</h4>\n<ul>\n<li>Representación de cualquier número racional \\( q \\) como \\( q = \\frac{a}{b} \\), con \\( a \\in \\mathbb{Z} \\), \\( b \\in \\mathbb{N}^* \\)</li>\n</ul>\n<h4>Decimales y fracciones</h4>\n<ul>\n<li>Conversión entre decimales finitos y fracciones</li>\n<li>Conversión entre decimales periódicos y fracciones y viceversa</li>\n</ul>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -560,6 +708,26 @@ $("p.toggle-idevice a").click();
       <iconName>udl_exp_cuestionario</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -571,6 +739,240 @@ $("p.toggle-idevice a").click();
           <jsonProperties><![CDATA[{"typeGame":"Cotejo","id":"202591621205-120","title":"Las siguientes actividades son fundamentales en el tema","subtitle":"","levels":[{"type":"3","nivel":"0","item":"Fracciones en la recta","points":""},{"type":"0","nivel":"1","item":"<span style=\"background-color: rgb(255, 255, 255);\">Dibujar fracciones en la recta</span>","points":""},{"type":"0","nivel":"1","item":"Conocer qué fracción es un punto de la recta","points":""},{"type":"3","nivel":"0","item":"Fracciones y decimales","points":""},{"type":"0","nivel":"1","item":"De fracción a decimal ¿Qué tipo de decimal es?","points":""},{"type":"0","nivel":"1","item":"<span style=\"background-color: rgb(255, 255, 255);\">De fracción a decimal ¿Qué tipo de decimal es? (2)</span>","points":""},{"type":"0","nivel":"1","item":"Calculadora de fracciones generatrices&nbsp;","points":""},{"type":"0","nivel":"1","item":"<span style=\"background-color: rgb(255, 255, 255);\">Evalúa si sabes pasar a fracción</span>","points":""},{"type":"3","nivel":"0","item":"Tipos de números","points":""},{"type":"0","nivel":"1","item":"Distintos tipos de números<br>Realizar el test de conocimientos sobre tipos de números","points":""},{"type":"3","nivel":"0","item":"Factores primos y mcm - MCD","points":""},{"type":"0","nivel":"1","item":"<span style=\"background-color: rgb(255, 255, 255);\">Repasa la descomposición en factores</span>","points":""},{"type":"0","nivel":"1","item":"Repasa el cálculo del mcm y MCD","points":""}],"hasLogo":false,"urlLogo":"","hasCommunity":false,"urlCommunity":"","hasDecorative":true,"urlDecorative":"","saveData":false,"userData":false,"footer":"Esta <a href=https://es.wikipedia.org/wiki/Lista_de_comprobaci%C3%B3n>lista de cotejo</a> se encuentra bajo una licencia</br><a href=http://creativecommons.org/licenses/by-sa/4.0>Creative Commons Reconocimiento-Compartir igual 4.0 International License</a>","useScore":false,"msgs":{"msgComplit":"Completadas","msgDone":"Hecho","msgInProgress":"En proceso","msgUnrealized":"Sin completar","msgtaskNumber":"Número de tareas","msgName":"Nombre","msgDate":"Fecha","msgSave":"Descargar","msgList":"lista_de_cotejo","msgScore":"Puntuación","msgPoints":"puntos","msgPoint":"punto","msgReboot":"Reiniciar","msgDelete":"¿Seguro que desea borrar todos los campos del formulario?"}}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mt6x3dke-1yta3pve2</odePageId>
+  <odeParentPageId>page-mt6x3dke-ghg9pj2tg</odeParentPageId>
+  <pageName>Distintos tipos de números</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Distintos tipos de números</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Distintos tipos de números</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mt6x3dke-1yta3pve2</odePageId>
+      <odeBlockId>block-mtlpubzr-qjyqcyc01</odeBlockId>
+      <blockName>Distintos tipos de números</blockName>
+      <iconName>udl_rep_caso</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mt6x3dke-1yta3pve2</odePageId>
+          <odeBlockId>block-mtlpubzr-qjyqcyc01</odeBlockId>
+          <odeIdeviceId>idevice-1788451493152-f9otas96z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><!-- BLOQUE 1: EJERCICIO PARA ALUMNOS -->
+<div class="ejercicio-matematicas">
+<table style="border-collapse: collapse !important; width: 100% !important; text-align: center !important; border: 1px solid #000 !important;">
+<thead>
+<tr style="background-color: #f2f2f2 !important;">
+<th style="border: 1px solid #000 !important; padding: 10px !important;">Conjunto</th>
+<th style="border: 1px solid #000 !important; padding: 10px !important;">¿Qué son?</th>
+<th style="border: 1px solid #000 !important; padding: 10px !important;">¿Quiénes son?</th>
+<th style="border: 1px solid #000 !important; padding: 10px !important;">¿Cómo se representan?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border: 1px solid #000 !important; padding: 15px !important; height: 50px !important;"><strong>Naturales</strong></td>
+<td style="border: 1px solid #000 !important; padding: 15px !important;"> </td>
+<td style="border: 1px solid #000 !important; padding: 15px !important;"> </td>
+<td style="border: 1px solid #000 !important; padding: 15px !important;"> </td>
+</tr>
+<tr>
+<td style="border: 1px solid #000 !important; padding: 15px !important; height: 50px !important;"><strong>Enteros</strong></td>
+<td style="border: 1px solid #000 !important; padding: 15px !important;"> </td>
+<td style="border: 1px solid #000 !important; padding: 15px !important;"> </td>
+<td style="border: 1px solid #000 !important; padding: 15px !important;"> </td>
+</tr>
+<tr>
+<td style="border: 1px solid #000 !important; padding: 15px !important; height: 50px !important;"><strong>Racionales</strong></td>
+<td style="border: 1px solid #000 !important; padding: 15px !important;"> </td>
+<td style="border: 1px solid #000 !important; padding: 15px !important;"> </td>
+<td style="border: 1px solid #000 !important; padding: 15px !important;"> </td>
+</tr>
+<tr>
+<td style="border: 1px solid #000 !important; padding: 15px !important; height: 50px !important;"><strong>Irracionales</strong></td>
+<td style="border: 1px solid #000 !important; padding: 15px !important;"> </td>
+<td style="border: 1px solid #000 !important; padding: 15px !important;"> </td>
+<td style="border: 1px solid #000 !important; padding: 15px !important;"> </td>
+</tr>
+<tr>
+<td style="border: 1px solid #000 !important; padding: 15px !important; height: 50px !important;"><strong>Reales</strong></td>
+<td style="border: 1px solid #000 !important; padding: 15px !important;"> </td>
+<td style="border: 1px solid #000 !important; padding: 15px !important;"> </td>
+<td style="border: 1px solid #000 !important; padding: 15px !important;"> </td>
+</tr>
+</tbody>
+</table>
+</div><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Solución" data-text-a="Solución" data-text-b="Solución"></div><div class="feedback js-feedback js-hidden" style="display: none;"><!-- BLOQUE 2: SOLUCIÓN COMPLETA -->
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
+<thead>
+<tr style="background-color: #e6f2ff;">
+<th>Conjunto</th>
+<th>¿Qué son?</th>
+<th>¿Quiénes son?</th>
+<th>¿Cómo se representan?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Naturales</strong></td>
+<td>Positivos<br />Parte decimal = \( 0 \)</td>
+<td>\( \{1, 2, 3, \dots, 9, 10, 11, \dots\} \)</td>
+<td>\( \mathbb{N} \)</td>
+</tr>
+<tr>
+<td><strong>Enteros</strong></td>
+<td>Positivos, Negativos y \( 0 \)<br />Parte decimal = \( 0 \)</td>
+<td>\( \{\dots, -3, -2, -1, 0, 1, 2, 3, \dots\} \)</td>
+<td>\( \mathbb{Z} \)</td>
+</tr>
+<tr>
+<td><strong>Racionales</strong></td>
+<td>Razón = proporción / periódicos<br />\( \frac{a}{b} \) con \( a, b \in \mathbb{Z} \) y \( b \neq 0 \)</td>
+<td>\( \frac{a}{b} \) con \( a,b \in \mathbb{Z} \), \( b \neq 0 \)</td>
+<td>\( \mathbb{Q} \)</td>
+</tr>
+<tr>
+<td><strong>Irracionales</strong></td>
+<td>Decimale\(s\) infinitos No periódicos</td>
+<td>Todo número decimal con infinitas cifras decimales no periódicas, como \( \pi = 3{,}1415\dots \) o \(\sqrt{2}\)</td>
+<td>\( \mathbb{I} \)</td>
+</tr>
+<tr>
+<td><strong>Reales</strong></td>
+<td>Todos los números anteriores (Racionales e Irracionales)</td>
+<td>Unión de \( \mathbb{Q} \) e \( \mathbb{I} \)</td>
+<td>\( \mathbb{R} \)</td>
+</tr>
+</tbody>
+</table></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1788451493152-f9otas96z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><!-- BLOQUE 1: EJERCICIO PARA ALUMNOS -->\n<div class=\"ejercicio-matematicas\">\n<table style=\"border-collapse: collapse !important; width: 100% !important; text-align: center !important; border: 1px solid #000 !important;\">\n<thead>\n<tr style=\"background-color: #f2f2f2 !important;\">\n<th style=\"border: 1px solid #000 !important; padding: 10px !important;\">Conjunto</th>\n<th style=\"border: 1px solid #000 !important; padding: 10px !important;\">¿Qué son?</th>\n<th style=\"border: 1px solid #000 !important; padding: 10px !important;\">¿Quiénes son?</th>\n<th style=\"border: 1px solid #000 !important; padding: 10px !important;\">¿Cómo se representan?</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important; height: 50px !important;\"><strong>Naturales</strong></td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important; height: 50px !important;\"><strong>Enteros</strong></td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important; height: 50px !important;\"><strong>Racionales</strong></td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important; height: 50px !important;\"><strong>Irracionales</strong></td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important; height: 50px !important;\"><strong>Reales</strong></td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n</tr>\n</tbody>\n</table>\n</div><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Solución\" data-text-a=\"Solución\" data-text-b=\"Solución\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><!-- BLOQUE 2: SOLUCIÓN COMPLETA -->\n<table border=\"1\" style=\"border-collapse: collapse; width: 100%; text-align: center;\">\n<thead>\n<tr style=\"background-color: #e6f2ff;\">\n<th>Conjunto</th>\n<th>¿Qué son?</th>\n<th>¿Quiénes son?</th>\n<th>¿Cómo se representan?</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Naturales</strong></td>\n<td>Positivos<br />Parte decimal = \\( 0 \\)</td>\n<td>\\( \\{1, 2, 3, \\dots, 9, 10, 11, \\dots\\} \\)</td>\n<td>\\( \\mathbb{N} \\)</td>\n</tr>\n<tr>\n<td><strong>Enteros</strong></td>\n<td>Positivos, Negativos y \\( 0 \\)<br />Parte decimal = \\( 0 \\)</td>\n<td>\\( \\{\\dots, -3, -2, -1, 0, 1, 2, 3, \\dots\\} \\)</td>\n<td>\\( \\mathbb{Z} \\)</td>\n</tr>\n<tr>\n<td><strong>Racionales</strong></td>\n<td>Razón = proporción / periódicos<br />\\( \\frac{a}{b} \\) con \\( a, b \\in \\mathbb{Z} \\) y \\( b \\neq 0 \\)</td>\n<td>\\( \\frac{a}{b} \\) con \\( a,b \\in \\mathbb{Z} \\), \\( b \\neq 0 \\)</td>\n<td>\\( \\mathbb{Q} \\)</td>\n</tr>\n<tr>\n<td><strong>Irracionales</strong></td>\n<td>Decimale\\(s\\) infinitos No periódicos</td>\n<td>Todo número decimal con infinitas cifras decimales no periódicas, como \\( \\pi = 3{,}1415\\dots \\) o \\(\\sqrt{2}\\)</td>\n<td>\\( \\mathbb{I} \\)</td>\n</tr>\n<tr>\n<td><strong>Reales</strong></td>\n<td>Todos los números anteriores (Racionales e Irracionales)</td>\n<td>Unión de \\( \\mathbb{Q} \\) e \\( \\mathbb{I} \\)</td>\n<td>\\( \\mathbb{R} \\)</td>\n</tr>\n</tbody>\n</table></div></div>","textFeedbackInput":"Solución","textFeedbackTextarea":"<!-- BLOQUE 2: SOLUCIÓN COMPLETA -->\n<table border=\"1\" style=\"border-collapse: collapse; width: 100%; text-align: center;\">\n<thead>\n<tr style=\"background-color: #e6f2ff;\">\n<th>Conjunto</th>\n<th>¿Qué son?</th>\n<th>¿Quiénes son?</th>\n<th>¿Cómo se representan?</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Naturales</strong></td>\n<td>Positivos<br />Parte decimal = \\( 0 \\)</td>\n<td>\\( \\{1, 2, 3, \\dots, 9, 10, 11, \\dots\\} \\)</td>\n<td>\\( \\mathbb{N} \\)</td>\n</tr>\n<tr>\n<td><strong>Enteros</strong></td>\n<td>Positivos, Negativos y \\( 0 \\)<br />Parte decimal = \\( 0 \\)</td>\n<td>\\( \\{\\dots, -3, -2, -1, 0, 1, 2, 3, \\dots\\} \\)</td>\n<td>\\( \\mathbb{Z} \\)</td>\n</tr>\n<tr>\n<td><strong>Racionales</strong></td>\n<td>Razón = proporción / periódicos<br />\\( \\frac{a}{b} \\) con \\( a, b \\in \\mathbb{Z} \\) y \\( b \\neq 0 \\)</td>\n<td>\\( \\frac{a}{b} \\) con \\( a,b \\in \\mathbb{Z} \\), \\( b \\neq 0 \\)</td>\n<td>\\( \\mathbb{Q} \\)</td>\n</tr>\n<tr>\n<td><strong>Irracionales</strong></td>\n<td>Decimale\\(s\\) infinitos No periódicos</td>\n<td>Todo número decimal con infinitas cifras decimales no periódicas, como \\( \\pi = 3{,}1415\\dots \\) o \\(\\sqrt{2}\\)</td>\n<td>\\( \\mathbb{I} \\)</td>\n</tr>\n<tr>\n<td><strong>Reales</strong></td>\n<td>Todos los números anteriores (Racionales e Irracionales)</td>\n<td>Unión de \\( \\mathbb{Q} \\) e \\( \\mathbb{I} \\)</td>\n<td>\\( \\mathbb{R} \\)</td>\n</tr>\n</tbody>\n</table>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mt6x3dke-1yta3pve2</odePageId>
+      <odeBlockId>block-mt6x3dkh-h2ei6mn4x</odeBlockId>
+      <blockName>Conoce lo que sabes sobre los distintos tipos de números</blockName>
+      <iconName>udl_exp_escribe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mt6x3dke-1yta3pve2</odePageId>
+          <odeBlockId>block-mt6x3dkh-h2ei6mn4x</odeBlockId>
+          <odeIdeviceId>idevice-mt6x3dkh-grheum3f0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><a href="https://www.geogebra.org/m/bktfarkx" target="_blank" rel="noopener">Resuelve el siguiente test autocorregible</a></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><a href=\"https://www.geogebra.org/m/bktfarkx\" target=\"_blank\" rel=\"noopener\">Resuelve el siguiente test autocorregible</a></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -581,11 +983,35 @@ $("p.toggle-idevice a").click();
   <odePageId>page-mt6x3dke-dg92mofd5</odePageId>
   <odeParentPageId>page-mt6x3dke-ghg9pj2tg</odeParentPageId>
   <pageName>Fracciones en la recta</pageName>
-  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Fracciones en la recta</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Fracciones en la recta</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -596,6 +1022,26 @@ $("p.toggle-idevice a").click();
       <iconName>udl_exp_escribe</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -615,6 +1061,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -626,6 +1084,26 @@ $("p.toggle-idevice a").click();
       <iconName>udl_exp_escribe</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -637,6 +1115,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -647,11 +1137,35 @@ $("p.toggle-idevice a").click();
   <odePageId>page-mt6x3dke-2sns1v9t2</odePageId>
   <odeParentPageId>page-mt6x3dke-ghg9pj2tg</odeParentPageId>
   <pageName>Fracciones y decimales</pageName>
-  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Fracciones y decimales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Fracciones y decimales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -662,6 +1176,26 @@ $("p.toggle-idevice a").click();
       <iconName>udl_exp_escribe</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -673,6 +1207,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -684,6 +1230,26 @@ $("p.toggle-idevice a").click();
       <iconName>udl_exp_escribe</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -703,6 +1269,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -714,6 +1292,26 @@ $("p.toggle-idevice a").click();
       <iconName>udl_rep_destacado</iconName>
       <odePagStructureOrder>2</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -725,6 +1323,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>2</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -736,6 +1346,26 @@ $("p.toggle-idevice a").click();
       <iconName>udl_eng_objetivos</iconName>
       <odePagStructureOrder>3</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -747,42 +1377,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>3</odeComponentsOrder>
           <odeComponentsProperties>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-  </odePagStructures>
-</odeNavStructure>
-<odeNavStructure>
-  <odePageId>page-mt6x3dke-1yta3pve2</odePageId>
-  <odeParentPageId>page-mt6x3dke-ghg9pj2tg</odeParentPageId>
-  <pageName>Distintos tipos de números</pageName>
-  <odeNavStructureOrder>10</odeNavStructureOrder>
-  <odeNavStructureProperties>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>Distintos tipos de números</value>
-    </odeNavStructureProperty>
-  </odeNavStructureProperties>
-  <odePagStructures>
-    <odePagStructure>
-      <odePageId>page-mt6x3dke-1yta3pve2</odePageId>
-      <odeBlockId>block-mt6x3dkh-h2ei6mn4x</odeBlockId>
-      <blockName>Conoce lo que sabes sobre los distintos tipos de números</blockName>
-      <iconName>udl_exp_escribe</iconName>
-      <odePagStructureOrder>0</odePagStructureOrder>
-      <odePagStructureProperties>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>page-mt6x3dke-1yta3pve2</odePageId>
-          <odeBlockId>block-mt6x3dkh-h2ei6mn4x</odeBlockId>
-          <odeIdeviceId>idevice-mt6x3dkh-grheum3f0</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<p><a href="https://www.geogebra.org/m/bktfarkx" target="_blank" rel="noopener">Resuelve el siguiente test autocorregible</a></p>]]></htmlView>
-          <jsonProperties><![CDATA[{"textTextarea":"<p><a href=\"https://www.geogebra.org/m/bktfarkx\" target=\"_blank\" rel=\"noopener\">Resuelve el siguiente test autocorregible</a></p>"}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -793,11 +1399,35 @@ $("p.toggle-idevice a").click();
   <odePageId>page-mt6x3dke-gfjooq39d</odePageId>
   <odeParentPageId>page-mt6x3dke-ghg9pj2tg</odeParentPageId>
   <pageName>Descomposición en factores y mcm, MCD</pageName>
-  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Descomposición en factores y mcm, MCD</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descomposición en factores y mcm, MCD</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -808,6 +1438,26 @@ $("p.toggle-idevice a").click();
       <iconName>udl_rep_destacado</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -819,6 +1469,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties><![CDATA[{"textTextarea":"<p><a href=\"https://www.geogebra.org/m/rqx8vcxu\" target=\"_blank\" rel=\"noopener\">En este enlace</a> puedes comprobar si sabes calcular el mcm y MCD (mediante diagramas de Venn).</p>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -830,6 +1492,26 @@ $("p.toggle-idevice a").click();
       <iconName>udl_exp_escribe</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -849,6 +1531,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -865,6 +1559,30 @@ $("p.toggle-idevice a").click();
       <key>titlePage</key>
       <value>Tema 2 - Potencias y raíces</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tema 2 - Potencias y raíces</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
@@ -874,6 +1592,26 @@ $("p.toggle-idevice a").click();
       <iconName></iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -939,6 +1677,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties><![CDATA[{"textTextarea":"<p>\n<script>\n$(function() {\n$(\"p.toggle-idevice a\").click();\n});\n</script>\n</p>\n<h4>Números cuadrados y raíces cuadradas</h4>\n<ul>\n<li>Lista de los primeros 20 números cuadrados</li>\n<li>Relación entre elevar al cuadrado y extraer raíz cuadrada como operaciones inversas</li>\n</ul>\n<h4>Radicales y números irracionales</h4>\n<ul>\n<li>Reconocimiento de que \\( \\sqrt{2} \\notin \\mathbb{Q} \\)</li>\n<li>Identificación de otros radicales irracionales</li>\n</ul>\n<h4>Cálculos exactos y aproximados</h4>\n<ul>\n<li>Diferenciación entre cálculos exactos y aproximados</li>\n</ul>\n<h4>Propiedades de los radicales</h4>\n<ul>\n<li>Propiedad: \\( \\sqrt{a} \\cdot \\sqrt{b} = \\sqrt{ab} \\), para \\( a, b \\in \\mathbb{R}^+ \\cup \\{0\\} \\)</li>\n<li>Propiedad: \\( \\frac{\\sqrt{a}}{\\sqrt{b}} = \\sqrt{\\frac{a}{b}} \\), con \\( a \\in \\mathbb{R}^+ \\cup \\{0\\}, b \\in \\mathbb{R}^+ \\)</li>\n<li>Propiedad: \\( \\sqrt{a^2 b} = a\\sqrt{b} \\), para \\( a, b \\in \\mathbb{N} \\)</li>\n<li>Propiedad: \\( \\sqrt{a^2} = |a| \\), con \\( a \\in \\mathbb{R} \\)</li>\n</ul>\n<h4>Racionalización de denominadores</h4>\n<ul>\n<li>Racionalización con denominador \\( \\sqrt{a} \\)</li>\n<li>Racionalización con denominador \\( b \\pm \\sqrt{a} \\)</li>\n<li>Racionalización con \\( \\sqrt{a} \\pm \\sqrt{b} \\), para \\( a, b \\in \\mathbb{N} \\)</li>\n</ul>\n<h4>Números reales y la recta numérica</h4>\n<ul>\n<li>Definición de los números reales como unión de racionales e irracionales</li>\n<li>Correspondencia biunívoca entre puntos de la recta numérica y números reales</li>\n<li>Diferenciación entre valores exactos y aproximados</li>\n<li>Aplicación de las reglas aritméticas de \\( \\mathbb{Q} \\) al conjunto \\( \\mathbb{R} \\)</li>\n</ul>\n<h4>Potencias con exponentes enteros</h4>\n<ul>\n<li>Definiciones y fórmulas relacionadas con potencias de base real y exponente entero</li>\n</ul>\n<h4>Notación científica</h4>\n<ul>\n<li>Conversión entre número decimal y notación científica</li>\n<li>Redondeo en notación científica</li>\n<li>Cálculo utilizando notación científica</li>\n</ul>\n<h4>Simplificación de expresiones usando leyes de los exponentes</h4>\n<ul>\n<li>Aplicación de las leyes de los exponentes para simplificar expresiones algebraicas</li>\n</ul>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -949,11 +1699,35 @@ $("p.toggle-idevice a").click();
   <odePageId>page-mt6x3dke-9bmhght9g</odePageId>
   <odeParentPageId>page-mt6x3dke-0ftmbxyry</odeParentPageId>
   <pageName>Potencias</pageName>
-  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Potencias</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Potencias</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -964,6 +1738,26 @@ $("p.toggle-idevice a").click();
       <iconName>udl_exp_lee</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -1006,6 +1800,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties><![CDATA[{"textTextarea":"<!-- RECUADRO ROJO: PROPIEDADES DE POTENCIAS (sin exponentes fraccionarios) -->\n<div style=\"border: 2px solid red; padding: 12px; background-color: transparent; margin: 1em 0;\"><strong>Propiedades de las potencias</strong> (para \\(a,b\\in\\mathbb{R}\\), con \\(a\\neq 0\\), \\(b\\neq 0\\) donde aplique; \\(m,n\\in\\mathbb{Z}\\)):\n<ul>\n<li><em>Producto de potencias con la misma base:</em> \\[ a^{m}\\cdot a^{n}=a^{\\,m+n}. \\]</li>\n<li><em>Cociente de potencias con la misma base:</em> \\[ \\dfrac{a^{m}}{a^{n}}=a^{\\,m-n}\\quad (a\\neq 0). \\]</li>\n<li><em>Potencia de una potencia:</em> \\[ \\big(a^{m}\\big)^{n}=a^{\\,mn}. \\]</li>\n<li><em>Potencia de un producto:</em> \\[ (ab)^{n}=a^{n}\\,b^{n}. \\]</li>\n<li><em>Potencia de un cociente:</em> \\[ \\left(\\dfrac{a}{b}\\right)^{n}=\\dfrac{a^{n}}{b^{n}}\\quad (b\\neq 0). \\]</li>\n<li><em>Exponente cero:</em> \\[ a^{0}=1\\quad (a\\neq 0) \\].</li>\n<li><em>Exponente negativo:</em> \\[ a^{-n}=\\dfrac{1}{a^{n}}\\quad (\\, a\\neq 0) \\quad \\quad \\left(\\frac{a}{b}\\right)^{-n}=\\left(\\frac{b}{a}\\right)^{n}\\quad (a,b\\neq 0) \\]</li>\n</ul>\n<ul>\n<li><em>Casos básicos:</em> \\(a^{1}=a,\\; 1^{n}=1\\).</li>\n</ul>\n</div>\n<!-- ACORDEÓN: EJEMPLOS DE CADA PROPIEDAD -->\n<div class=\"exe-fx exe-accordion\">\n<h2>Producto de potencias (misma base)</h2>\n<p>\\[ 2^{3}\\cdot 2^{5}=2^{3+5}=2^{8}=256. \\]</p>\n<h2>Cociente de potencias (misma base)</h2>\n<p>\\[ \\frac{3^{7}}{3^{4}}=3^{7-4}=3^{3}=27. \\]</p>\n<h2>Potencia de una potencia</h2>\n<p>\\[ \\big(5^{2}\\big)^{3}=5^{2\\cdot 3}=5^{6}=15625. \\]</p>\n<h2>Potencia de un producto</h2>\n<p>\\[ (2\\cdot 5)^{4}=2^{4}\\cdot 5^{4}=16\\cdot 625=10000. \\]</p>\n<h2>Potencia de un cociente</h2>\n<p>\\[ \\left(\\frac{6}{3}\\right)^{3}=\\frac{6^{3}}{3^{3}}=\\frac{216}{27}=8. \\]</p>\n<h2>Exponente cero</h2>\n<p>\\[ 7^{0}=1,\\qquad (-3)^{0}=1. \\]</p>\n<h2>Exponentes negativos</h2>\n<p>\\[ 4^{-3}=\\frac{1}{4^{3}}=\\frac{1}{64},\\qquad 10^{-2}\\cdot 10^{5}=10^{\\,{-2}+5}=10^{3}=1000. \\]</p>\n</div>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1016,11 +1822,35 @@ $("p.toggle-idevice a").click();
   <odePageId>page-mt6x3dke-rv2kfd9xh</odePageId>
   <odeParentPageId>page-mt6x3dke-9bmhght9g</odeParentPageId>
   <pageName>Propiedades de potencias</pageName>
-  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Propiedades de potencias</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Propiedades de potencias</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -1031,6 +1861,26 @@ $("p.toggle-idevice a").click();
       <iconName></iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -1042,6 +1892,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1052,11 +1914,35 @@ $("p.toggle-idevice a").click();
   <odePageId>page-mt6x3dke-o23bqjbbd</odePageId>
   <odeParentPageId>page-mt6x3dke-9bmhght9g</odeParentPageId>
   <pageName>¡Ojo con los signos!</pageName>
-  <odeNavStructureOrder>16</odeNavStructureOrder>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>¡Ojo con los signos!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡Ojo con los signos!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -1067,6 +1953,26 @@ $("p.toggle-idevice a").click();
       <iconName></iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -1078,6 +1984,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties><![CDATA[{"textTextarea":"<p>No es lo mismo en una potencia si la base es negativa o si es el exponente el que es negativo. ¡Mucho cuidado cuando haya un menos de por medio!</p>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1089,6 +2007,26 @@ $("p.toggle-idevice a").click();
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -1100,6 +2038,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1110,11 +2060,35 @@ $("p.toggle-idevice a").click();
   <odePageId>page-mt6x3dke-3k6eyal10</odePageId>
   <odeParentPageId>page-mt6x3dke-0ftmbxyry</odeParentPageId>
   <pageName>Raíces</pageName>
-  <odeNavStructureOrder>17</odeNavStructureOrder>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Raíces</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Raíces</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -1124,11 +2098,35 @@ $("p.toggle-idevice a").click();
   <odePageId>page-mt6x3dke-pd9ijyvde</odePageId>
   <odeParentPageId>page-mt6x3dke-3k6eyal10</odeParentPageId>
   <pageName>Racionalización</pageName>
-  <odeNavStructureOrder>18</odeNavStructureOrder>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Racionalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Racionalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -1139,6 +2137,26 @@ $("p.toggle-idevice a").click();
       <iconName></iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -1153,6 +2171,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties><![CDATA[{"textTextarea":"<p>Racionalizar una fracción en la que hay una raíz en el denominar es buscar una expresión alternativa que <strong>no tenga raíz en el denominador</strong>.</p>\n<p>Por ejemplo:</p>\n<p>Racionaliza \\(\\frac{10}{\\sqrt{5}}\\)</p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbackbutton\" value=\"Solución\" /></div><div class=\"feedback js-feedback js-hidden\"><p>\\( \\frac{10}{\\sqrt{5}}\\cdot\\frac{\\sqrt{5}}{\\sqrt{5}}=\\frac{10\\sqrt{5}}{5}=\\frac{10\\sqrt{5}}{5}=2\\sqrt{5} \\)</p>\n<p>(a veces esto sirve para simplificar la expresión, como en este ejemplo).</p></div>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1164,6 +2194,26 @@ $("p.toggle-idevice a").click();
       <iconName>udl_exp_coproducciontxt</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -1220,6 +2270,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties><![CDATA[{"textInfoDurationTextInput":"","textInfoDurationInput":"","textInfoParticipantsTextInput":"","textInfoParticipantsInput":"","textFeedbackInput":"Soluciones","textFeedbackTextarea":"\n<p><strong>Soluciones: racionalizar cada fracción</strong></p>\n<ol style=\"margin: 10px 0px 0px 22px; padding: 0px; line-height: 1.9; font-size: 16px; list-style-type: lower-alpha;\">\n<li>\\[ \\frac{12}{\\sqrt{3}}\\cdot\\frac{\\sqrt{3}}{\\sqrt{3}}=\\frac{12\\sqrt{3}}{3} \\] \\[ \\frac{12\\sqrt{3}}{3}=4\\sqrt{3} \\]</li>\n\n<li>\\[ \\frac{7}{\\sqrt{2}}\\cdot\\frac{\\sqrt{2}}{\\sqrt{2}}=\\frac{7\\sqrt{2}}{2} \\]</li>\n\n<li>\\[ \\frac{15}{\\sqrt{6}}\\cdot\\frac{\\sqrt{6}}{\\sqrt{6}}=\\frac{15\\sqrt{6}}{6} \\] \\[ \\frac{15\\sqrt{6}}{6}=\\frac{5\\sqrt{6}}{2} \\]</li>\n\n<li>\\[ \\frac{9}{2\\sqrt{5}}\\cdot\\frac{\\sqrt{5}}{\\sqrt{5}}=\\frac{9\\sqrt{5}}{2\\cdot5} \\] \\[ \\frac{9\\sqrt{5}}{10} \\]</li>\n\n<li>\\[ \\frac{25}{3\\sqrt{7}}\\cdot\\frac{\\sqrt{7}}{\\sqrt{7}}=\\frac{25\\sqrt{7}}{3\\cdot7} \\] \\[ \\frac{25\\sqrt{7}}{21} \\]</li>\n\n<li>\\[ \\frac{8}{\\sqrt{11}}\\cdot\\frac{\\sqrt{11}}{\\sqrt{11}}=\\frac{8\\sqrt{11}}{11} \\]</li>\n\n<li>\\[ \\frac{14}{5\\sqrt{2}}\\cdot\\frac{\\sqrt{2}}{\\sqrt{2}}=\\frac{14\\sqrt{2}}{5\\cdot2} \\] \\[ \\frac{14\\sqrt{2}}{10}=\\frac{7\\sqrt{2}}{5} \\]</li>\n\n<li>\\[ \\frac{6}{\\sqrt{13}}\\cdot\\frac{\\sqrt{13}}{\\sqrt{13}}=\\frac{6\\sqrt{13}}{13} \\]</li>\n\n<li>\\[ \\frac{20}{4\\sqrt{10}}\\cdot\\frac{\\sqrt{10}}{\\sqrt{10}}=\\frac{20\\sqrt{10}}{4\\cdot10} \\] \\[ \\frac{20\\sqrt{10}}{40}=\\frac{\\sqrt{10}}{2} \\]</li>\n\n<li>\\[ \\frac{11}{\\sqrt{17}}\\cdot\\frac{\\sqrt{17}}{\\sqrt{17}}=\\frac{11\\sqrt{17}}{17} \\]</li>\n</ol>","textTextarea":"<div class=\"exe-text-activity\"><p>\n<script type=\"text/javascript\"> \n  $(window).load(function(){\n    $.each([1,2,3,4,5,6], function(index , value ) {\n $(\"p.toggle-idevice a\").eq(value).click();\n    })\n  });\n</script>\n</p>\n\n<div style=\"box-sizing: border-box; background: #f9f9f9; border: 1px solid #d0d4d9; border-radius: 6px; padding: 12px 14px; font-family: system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif; color: #111; max-width: 780px; margin: 0;\"><strong>Racionalizar las siguientes fracciones</strong>\n<ol style=\"margin: 10px 0px 0px 22px; padding: 0px; line-height: 1.8; font-size: 16px; list-style-type: lower-alpha;\">\n<li>\\(\\displaystyle \\frac{12}{\\sqrt{3}}\\)</li>\n<li>\\(\\displaystyle \\frac{7}{\\sqrt{2}}\\)</li>\n<li>\\(\\displaystyle \\frac{15}{\\sqrt{6}}\\)</li>\n<li>\\(\\displaystyle \\frac{9}{2\\sqrt{5}}\\)</li>\n<li>\\(\\displaystyle \\frac{25}{3\\sqrt{7}}\\)</li>\n<li>\\(\\displaystyle \\frac{8}{\\sqrt{11}}\\)</li>\n<li>\\(\\displaystyle \\frac{14}{5\\sqrt{2}}\\)</li>\n<li>\\(\\displaystyle \\frac{6}{\\sqrt{13}}\\)</li>\n<li>\\(\\displaystyle \\frac{20}{4\\sqrt{10}}\\)</li>\n<li>\\(\\displaystyle \\frac{11}{\\sqrt{17}}\\)</li>\n</ol>\n</div><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Soluciones\" data-text-a=\"Soluciones\" data-text-b=\"Soluciones\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\">\n<p><strong>Soluciones: racionalizar cada fracción</strong></p>\n<ol style=\"margin: 10px 0px 0px 22px; padding: 0px; line-height: 1.9; font-size: 16px; list-style-type: lower-alpha;\">\n<li>\\[ \\frac{12}{\\sqrt{3}}\\cdot\\frac{\\sqrt{3}}{\\sqrt{3}}=\\frac{12\\sqrt{3}}{3} \\] \\[ \\frac{12\\sqrt{3}}{3}=4\\sqrt{3} \\]</li>\n\n<li>\\[ \\frac{7}{\\sqrt{2}}\\cdot\\frac{\\sqrt{2}}{\\sqrt{2}}=\\frac{7\\sqrt{2}}{2} \\]</li>\n\n<li>\\[ \\frac{15}{\\sqrt{6}}\\cdot\\frac{\\sqrt{6}}{\\sqrt{6}}=\\frac{15\\sqrt{6}}{6} \\] \\[ \\frac{15\\sqrt{6}}{6}=\\frac{5\\sqrt{6}}{2} \\]</li>\n\n<li>\\[ \\frac{9}{2\\sqrt{5}}\\cdot\\frac{\\sqrt{5}}{\\sqrt{5}}=\\frac{9\\sqrt{5}}{2\\cdot5} \\] \\[ \\frac{9\\sqrt{5}}{10} \\]</li>\n\n<li>\\[ \\frac{25}{3\\sqrt{7}}\\cdot\\frac{\\sqrt{7}}{\\sqrt{7}}=\\frac{25\\sqrt{7}}{3\\cdot7} \\] \\[ \\frac{25\\sqrt{7}}{21} \\]</li>\n\n<li>\\[ \\frac{8}{\\sqrt{11}}\\cdot\\frac{\\sqrt{11}}{\\sqrt{11}}=\\frac{8\\sqrt{11}}{11} \\]</li>\n\n<li>\\[ \\frac{14}{5\\sqrt{2}}\\cdot\\frac{\\sqrt{2}}{\\sqrt{2}}=\\frac{14\\sqrt{2}}{5\\cdot2} \\] \\[ \\frac{14\\sqrt{2}}{10}=\\frac{7\\sqrt{2}}{5} \\]</li>\n\n<li>\\[ \\frac{6}{\\sqrt{13}}\\cdot\\frac{\\sqrt{13}}{\\sqrt{13}}=\\frac{6\\sqrt{13}}{13} \\]</li>\n\n<li>\\[ \\frac{20}{4\\sqrt{10}}\\cdot\\frac{\\sqrt{10}}{\\sqrt{10}}=\\frac{20\\sqrt{10}}{4\\cdot10} \\] \\[ \\frac{20\\sqrt{10}}{40}=\\frac{\\sqrt{10}}{2} \\]</li>\n\n<li>\\[ \\frac{11}{\\sqrt{17}}\\cdot\\frac{\\sqrt{17}}{\\sqrt{17}}=\\frac{11\\sqrt{17}}{17} \\]</li>\n</ol></div></div>"}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1231,6 +2293,26 @@ $("p.toggle-idevice a").click();
       <iconName>udl_exp_escribe</iconName>
       <odePagStructureOrder>2</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -1242,6 +2324,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>2</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1253,6 +2347,26 @@ $("p.toggle-idevice a").click();
       <iconName>udl_exp_lee</iconName>
       <odePagStructureOrder>3</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -1277,6 +2391,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties><![CDATA[{"textTextarea":"<p>Si el denominador tiene una suma o una resta, hay que hacer algo ligeramente distinto: <strong>multiplicar por el conjugado.</strong></p>\n<div style=\"box-sizing: border-box; background: #f2f4f5; border: 1px solid #d0d4d9; border-radius: 6px; padding: 12px 14px; font-family: system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif; color: #111; max-width: 800px; margin: 0; font-size: 16px;\">\n<div style=\"text-align: center; font-size: 18px; font-weight: bold; margin-bottom: 8px;\">Racionalizar \\(\\displaystyle \\frac{2}{3+\\sqrt{5}}\\)</div>\n</div><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbackbutton\" value=\"Solución\" /></div><div class=\"feedback js-feedback js-hidden\"><div style=\"font-weight: bold; margin: 6px 0 4px 0;\">Paso a paso</div>\n<ol style=\"margin: 0 0 8px 22px; padding: 0; line-height: 1.8;\">\n<li>Multiplicar y dividir por el conjugado \\(3-\\sqrt{5}\\): \\[ \\frac{2}{3+\\sqrt{5}}\\cdot\\frac{3-\\sqrt{5}}{3-\\sqrt{5}} \\]</li>\n<li>Denominador como diferencia de cuadrados: \\[ (3+\\sqrt{5})(3-\\sqrt{5})=3^{2}-(\\sqrt{5})^{2}=9-5=4. \\]</li>\n<li>Numerador: \\[ 2(3-\\sqrt{5})=6-2\\sqrt{5}. \\]</li>\n<li>Fracción resultante: \\[ \\frac{6-2\\sqrt{5}}{4}. \\]</li>\n<li>Simplificación final: \\[ \\frac{6-2\\sqrt{5}}{4}=\\frac{3-\\sqrt{5}}{2}. \\]</li>\n</ol>\n<!-- Identidad notable -->\n<div style=\"font-weight: bold; margin: 8px 0 4px 0;\">Identidad notable: diferencia de cuadrados</div>\n<div style=\"line-height: 1.8;\">\\[ (a+b)(a-b)=a^{2}-b^{2} \\] Aplicada aquí con \\(a=3\\) y \\(b=\\sqrt{5}\\): \\[ (3+\\sqrt{5})(3-\\sqrt{5})=3^{2}-(\\sqrt{5})^{2}=9-5=4. \\]</div></div>"}]]></jsonProperties>
           <odeComponentsOrder>3</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1288,6 +2414,26 @@ $("p.toggle-idevice a").click();
       <iconName>udl_exp_coproducciontxt</iconName>
       <odePagStructureOrder>4</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -1316,6 +2462,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties><![CDATA[{"textInfoDurationTextInput":"","textInfoDurationInput":"","textInfoParticipantsTextInput":"","textInfoParticipantsInput":"","textFeedbackInput":"Soluciones","textFeedbackTextarea":"<ol style=\"margin: 10px 0px 0px 22px; padding: 0px; line-height: 1.9; list-style-type: lower-alpha;\">\n<li>\\[ \\frac{5}{2+\\sqrt{3}} \\cdot\\frac{2-\\sqrt{3}}{2-\\sqrt{3}} =\\frac{5(2-\\sqrt{3})}{(2+\\sqrt{3})(2-\\sqrt{3})} \\] \\[ (2+\\sqrt{3})(2-\\sqrt{3})=2^2-(\\sqrt{3})^2=4-3=1 \\] \\[ \\boxed{\\,\\frac{5}{2+\\sqrt{3}}=10-5\\sqrt{3}\\,} \\]</li>\n\n<li>\\[ \\frac{7}{4+\\sqrt{2}} \\cdot\\frac{4-\\sqrt{2}}{4-\\sqrt{2}} =\\frac{7(4-\\sqrt{2})}{(4+\\sqrt{2})(4-\\sqrt{2})} \\] \\[ (4+\\sqrt{2})(4-\\sqrt{2})=4^2-(\\sqrt{2})^2=16-2=14 \\] \\[ \\frac{28-7\\sqrt{2}}{14}=\\frac{7(4-\\sqrt{2})}{14} =\\boxed{\\,\\frac{4-\\sqrt{2}}{2}\\,} \\]</li>\n\n<li>\\[ \\frac{9}{5+\\sqrt{7}} \\cdot\\frac{5-\\sqrt{7}}{5-\\sqrt{7}} =\\frac{9(5-\\sqrt{7})}{(5+\\sqrt{7})(5-\\sqrt{7})} \\] \\[ (5+\\sqrt{7})(5-\\sqrt{7})=5^2-(\\sqrt{7})^2=25-7=18 \\] \\[ \\frac{45-9\\sqrt{7}}{18}=\\frac{9(5-\\sqrt{7})}{18} =\\boxed{\\,\\frac{5-\\sqrt{7}}{2}\\,} \\]</li>\n\n<li>\\[ \\frac{11}{6-\\sqrt{5}} \\cdot\\frac{6+\\sqrt{5}}{6+\\sqrt{5}} =\\frac{11(6+\\sqrt{5})}{(6-\\sqrt{5})(6+\\sqrt{5})} \\] \\[ (6-\\sqrt{5})(6+\\sqrt{5})=6^2-(\\sqrt{5})^2=36-5=31 \\] \\[ \\boxed{\\,\\frac{11}{6-\\sqrt{5}}=\\frac{66+11\\sqrt{5}}{31}\\,} \\]</li>\n\n<li>\\[ \\frac{3}{7-\\sqrt{2}} \\cdot\\frac{7+\\sqrt{2}}{7+\\sqrt{2}} =\\frac{3(7+\\sqrt{2})}{(7-\\sqrt{2})(7+\\sqrt{2})} \\] \\[ (7-\\sqrt{2})(7+\\sqrt{2})=7^2-(\\sqrt{2})^2=49-2=47 \\] \\[ \\boxed{\\,\\frac{3}{7-\\sqrt{2}}=\\frac{21+3\\sqrt{2}}{47}\\,} \\]</li>\n</ol>","textTextarea":"<div class=\"exe-text-activity\"><p><strong>Racionaliza las siguientes fracciones</strong></p>\n<ol style=\"margin: 10px 0px 0px 22px; padding: 0px; line-height: 1.9; list-style-type: lower-alpha;\">\n<li>\\(\\displaystyle \\frac{5}{2+\\sqrt{3}}\\)</li>\n<li>\\(\\displaystyle \\frac{7}{4+\\sqrt{2}}\\)</li>\n<li>\\(\\displaystyle \\frac{9}{5+\\sqrt{7}}\\)</li>\n<li>\\(\\displaystyle \\frac{11}{6-\\sqrt{5}}\\)</li>\n<li>\\(\\displaystyle \\frac{3}{7-\\sqrt{2}}\\)</li>\n</ol><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Soluciones\" data-text-a=\"Soluciones\" data-text-b=\"Soluciones\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><ol style=\"margin: 10px 0px 0px 22px; padding: 0px; line-height: 1.9; list-style-type: lower-alpha;\">\n<li>\\[ \\frac{5}{2+\\sqrt{3}} \\cdot\\frac{2-\\sqrt{3}}{2-\\sqrt{3}} =\\frac{5(2-\\sqrt{3})}{(2+\\sqrt{3})(2-\\sqrt{3})} \\] \\[ (2+\\sqrt{3})(2-\\sqrt{3})=2^2-(\\sqrt{3})^2=4-3=1 \\] \\[ \\boxed{\\,\\frac{5}{2+\\sqrt{3}}=10-5\\sqrt{3}\\,} \\]</li>\n\n<li>\\[ \\frac{7}{4+\\sqrt{2}} \\cdot\\frac{4-\\sqrt{2}}{4-\\sqrt{2}} =\\frac{7(4-\\sqrt{2})}{(4+\\sqrt{2})(4-\\sqrt{2})} \\] \\[ (4+\\sqrt{2})(4-\\sqrt{2})=4^2-(\\sqrt{2})^2=16-2=14 \\] \\[ \\frac{28-7\\sqrt{2}}{14}=\\frac{7(4-\\sqrt{2})}{14} =\\boxed{\\,\\frac{4-\\sqrt{2}}{2}\\,} \\]</li>\n\n<li>\\[ \\frac{9}{5+\\sqrt{7}} \\cdot\\frac{5-\\sqrt{7}}{5-\\sqrt{7}} =\\frac{9(5-\\sqrt{7})}{(5+\\sqrt{7})(5-\\sqrt{7})} \\] \\[ (5+\\sqrt{7})(5-\\sqrt{7})=5^2-(\\sqrt{7})^2=25-7=18 \\] \\[ \\frac{45-9\\sqrt{7}}{18}=\\frac{9(5-\\sqrt{7})}{18} =\\boxed{\\,\\frac{5-\\sqrt{7}}{2}\\,} \\]</li>\n\n<li>\\[ \\frac{11}{6-\\sqrt{5}} \\cdot\\frac{6+\\sqrt{5}}{6+\\sqrt{5}} =\\frac{11(6+\\sqrt{5})}{(6-\\sqrt{5})(6+\\sqrt{5})} \\] \\[ (6-\\sqrt{5})(6+\\sqrt{5})=6^2-(\\sqrt{5})^2=36-5=31 \\] \\[ \\boxed{\\,\\frac{11}{6-\\sqrt{5}}=\\frac{66+11\\sqrt{5}}{31}\\,} \\]</li>\n\n<li>\\[ \\frac{3}{7-\\sqrt{2}} \\cdot\\frac{7+\\sqrt{2}}{7+\\sqrt{2}} =\\frac{3(7+\\sqrt{2})}{(7-\\sqrt{2})(7+\\sqrt{2})} \\] \\[ (7-\\sqrt{2})(7+\\sqrt{2})=7^2-(\\sqrt{2})^2=49-2=47 \\] \\[ \\boxed{\\,\\frac{3}{7-\\sqrt{2}}=\\frac{21+3\\sqrt{2}}{47}\\,} \\]</li>\n</ol></div></div>"}]]></jsonProperties>
           <odeComponentsOrder>4</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1327,6 +2485,26 @@ $("p.toggle-idevice a").click();
       <iconName>udl_exp_escribe</iconName>
       <odePagStructureOrder>5</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -1338,6 +2516,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>5</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1348,11 +2538,35 @@ $("p.toggle-idevice a").click();
   <odePageId>page-mt6x3dke-mf3gyxpoa</odePageId>
   <odeParentPageId>page-mt6x3dke-0ftmbxyry</odeParentPageId>
   <pageName>Notación científica</pageName>
-  <odeNavStructureOrder>19</odeNavStructureOrder>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Notación científica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Notación científica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -1363,6 +2577,26 @@ $("p.toggle-idevice a").click();
       <iconName></iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -1374,6 +2608,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties><![CDATA[{"textTextarea":"<p>Nuestra calculadora utilizará <mark>notación científica</mark> para mostrar resultados muy grandes o muy pequeños, es decir, aquellos que requieren más dígitos de los que caben en la pantalla.</p>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1385,6 +2631,26 @@ $("p.toggle-idevice a").click();
       <iconName>udl_exp_lee</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -1439,6 +2705,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties><![CDATA[{"textTextarea":"<p>\n<script type=\"text/javascript\"> \n  $(window).load(function(){\n    $.each([1,2,3,4,5,6,7], function(index , value ) {\n $(\"p.toggle-idevice a\").eq(value).click();\n    })\n  });\n</script>\n</p>\n<p>Veamos algunos ejemplos de números grandes o pequeños en notación científica:</p>\n<div class=\"exe-fx exe-accordion\">\n<h2>Ejemplo de número enorme</h2>\n<p>\\[ 4\\,444\\,444\\,444^{\\,2} = 1{,}975308642 \\cdot 10^{19} = 19\\,753\\,086\\,420\\,000\\,000\\,000 \\]</p>\n<ul>\n<li><strong>Notación científica:</strong> \\(1{,}975308642 \\cdot 10^{19}\\).</li>\n<li><strong>Parte significativa (mantisa):</strong> \\(1{,}975308642\\).</li>\n<li><strong>Exponente:</strong> \\(19\\).</li>\n</ul>\n<p><em>¿Cómo se lee?</em> “uno coma nueve siete … por diez elevado a diecinueve”.</p>\n<h2>Ejemplo de número pequeñito</h2>\n<p>\\[ \\sqrt{0{,}000000001} = 3{,}16227766 \\cdot 10^{-5} = 0{,}000031622766 \\]</p>\n<ul>\n<li><strong>Notación científica:</strong> \\(3{,}16227766 \\cdot 10^{-5}\\).</li>\n<li><strong>Parte significativa:</strong> \\(3{,}16227766\\).</li>\n<li><strong>Exponente:</strong> \\(-5\\).</li>\n</ul>\n<p><em>¿Cómo se lee?</em> “tres coma uno seis dos … por diez elevado a menos cinco”.</p>\n</div>\n<!-- Definición en recuadro rojo -->\n<div style=\"border: 2px solid red; padding: 10px; background-color: transparent; margin: 1em 0;\"><strong>Definición:</strong>\n<p>Un número en notación científica se escribe como: \\[ a{,}bcd e\\ldots \\;\\cdot\\; 10^{n} \\]</p>\n<ul>\n<li><strong>Parte entera:</strong> \\(a\\) (un solo dígito y \\(a \\ne 0\\)).</li>\n<li><strong>Parte decimal:</strong> \\(,bcd e\\ldots\\)</li>\n<li><strong>Parte significativa (mantisa):</strong> \\(a{,}bcd e\\ldots\\)</li>\n<li><strong>Exponente:</strong> \\(n \\in \\mathbb{Z}\\).</li>\n</ul>\n</div>\n<!-- Observación fuera -->\n<p><strong>Observación:</strong></p>\n<ul>\n<li>Si \\(n > 0\\) ⇒ el número es <strong>grande</strong>.</li>\n<li>Si \\(n < 0\\) ⇒ el número es <strong>pequeño</strong>.</li>\n</ul>"}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1450,6 +2728,26 @@ $("p.toggle-idevice a").click();
       <iconName>udl_exp_escribe</iconName>
       <odePagStructureOrder>2</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -1461,6 +2759,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>2</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1472,6 +2782,26 @@ $("p.toggle-idevice a").click();
       <iconName>udl_exp_lee</iconName>
       <odePagStructureOrder>3</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -1521,6 +2851,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties><![CDATA[{"textTextarea":"<div style=\"border: 2px solid red; padding: 10px; background-color: transparent; margin: 1em 0;\"><strong>Producto y cociente:</strong>\n<ul>\n<li><em>Producto:</em> \\((a\\cdot 10^{m})\\,(b\\cdot 10^{n})=(ab)\\cdot 10^{\\,m+n}\\).</li>\n<li><em>Cociente:</em> \\(\\dfrac{a\\cdot 10^{m}}{\\,b\\cdot 10^{n}}=\\left(\\dfrac{a}{b}\\right)\\cdot 10^{\\,m-n}\\).</li>\n</ul>\n</div>\n<!-- EJEMPLOS (acordeón) -->\n<div class=\"exe-fx exe-accordion\">\n<h2>Ejemplo — Producto</h2>\n<p>\\[ (2{,}25\\cdot 10^{6})\\,(5{,}5\\cdot 10^{5}) = (2{,}25\\cdot 5{,}5)\\cdot 10^{6+5} = 12{,}375\\cdot 10^{11} = 12{,}375\\cdot 10^{-1}\\cdot 10^{12} = \\boxed{1{,}2375\\cdot 10^{12}} \\]</p>\n<h2>Ejemplo — Cociente</h2>\n<p>\\[ \\frac{8{,}42\\cdot 10^{8}}{2\\cdot 10^{-2}} = \\left(\\frac{8{,}42}{2}\\right)\\cdot 10^{8-(-2)} = 4{,}21\\cdot 10^{10} = \\boxed{4{,}21\\cdot 10^{10}} \\]</p>\n</div>\n<!-- OBSERVACIONES (fuera) -->\n<p><strong>Observaciones:</strong></p>\n<ul>\n<li>Tras multiplicar o dividir, puede ser necesario <em>normalizar</em> para que la mantisa tenga un solo dígito entero (entre 1 y 9).</li>\n<li>Recuerda que \\(10^{m}\\cdot 10^{n}=10^{m+n}\\) y \\(\\dfrac{10^{m}}{10^{n}}=10^{m-n}\\).</li>\n</ul>\n<div style=\"border: 2px solid red; padding: 10px; background-color: transparent; margin: 1.5em 0 1em;\"><strong>Sumas y restas:</strong>\n<p>Para sumar/restar en notación científica hay que expresar los sumandos con la <em>misma potencia</em> de 10:</p>\n<p>\\[ a\\cdot 10^{k} \\;\\pm\\; b\\cdot 10^{k} \\;=\\; (a\\pm b)\\cdot 10^{k}. \\]</p>\n</div>\n<!-- EJEMPLOS (acordeón) -->\n<div class=\"exe-fx exe-accordion\">\n<h2>Ejemplo  — Sumas</h2>\n<p>\\[ 6{,}5\\cdot 10^{20} + 4{,}5\\cdot 10^{20} = (6{,}5+4{,}5)\\cdot 10^{20} = 11\\cdot 10^{20} = \\boxed{1{,}1\\cdot 10^{21}} \\]</p>\n<h2>Ejemplo — Restas (mismo exponente)</h2>\n<p>\\[ 4{,}2\\cdot 10^{-17} - 2{,}1\\cdot 10^{-17} = (4{,}2-2{,}1)\\cdot 10^{-17} = \\boxed{2{,}1\\cdot 10^{-17}} \\]</p>\n<h2>Ejemplo — Restas (exponentes distintos)</h2>\n<p>\\[ 7{,}00055\\cdot 10^{24} - 4{,}5\\cdot 10^{20} = 7{,}00055\\cdot 10^{24} - 0{,}00045\\cdot 10^{24} = \\boxed{7{,}00010\\cdot 10^{24}} \\approx \\boxed{7{,}0001\\cdot 10^{24}} \\]</p>\n</div>\n<!-- OBSERVACIONES (fuera) -->\n<p><strong>Observaciones:</strong></p>\n<ul>\n<li>Antes de sumar/restar, iguala los exponentes escribiendo cada número con la misma potencia de 10.</li>\n<li>Después, puede requerirse <em>normalizar</em> para que la mantisa tenga un solo dígito entero.</li>\n<li><em>Regla general:</em> si hay varias potencias de 10, es práctico expresar todas con el <strong>mayor exponente</strong> común para facilitar la operación.</li>\n</ul>"}]]></jsonProperties>
           <odeComponentsOrder>3</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1532,6 +2874,26 @@ $("p.toggle-idevice a").click();
       <iconName>udl_exp_escribe</iconName>
       <odePagStructureOrder>4</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -1543,6 +2905,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>4</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1554,6 +2928,26 @@ $("p.toggle-idevice a").click();
       <iconName>udl_exp_escribe</iconName>
       <odePagStructureOrder>5</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -1565,6 +2959,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>5</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1576,6 +2982,26 @@ $("p.toggle-idevice a").click();
       <iconName>udl_exp_escribe</iconName>
       <odePagStructureOrder>6</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -1587,6 +3013,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>6</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1598,6 +3036,26 @@ $("p.toggle-idevice a").click();
       <iconName>udl_exp_escribe</iconName>
       <odePagStructureOrder>7</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -1609,6 +3067,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>7</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1625,6 +3095,30 @@ $("p.toggle-idevice a").click();
       <key>titlePage</key>
       <value>Tema 3 - Triángulos rectángulos: el teorema de Pitágoras.</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tema 3 - Triángulos rectángulos: el teorema de Pitágoras.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
@@ -1634,6 +3128,26 @@ $("p.toggle-idevice a").click();
       <iconName></iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -1678,6 +3192,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties><![CDATA[{"textTextarea":"<p>\n<script>\n$(function() {\n$(\"p.toggle-idevice a\").click();\n});\n</script>\n</p>\n<h4>Propiedades de los triángulos rectángulos</h4>\n<ul>\n<li>Relación entre triángulo rectángulo y rectángulo (el triángulo es la mitad de un rectángulo)</li>\n<li>La hipotenusa como diagonal del rectángulo</li>\n<li>Los ángulos no rectos son complementarios</li>\n<li>La mediana desde el ángulo recto mide la mitad de la hipotenusa</li>\n<li>El punto medio de la hipotenusa es el centro del círculo circunscrito</li>\n<li>La hipotenusa es el diámetro del círculo circunscrito</li>\n</ul>\n<h4>Verificación con herramientas tecnológicas</h4>\n<ul>\n<li>Uso de herramientas tecnológicas para verificar propiedades mediante construcción y medición</li>\n</ul>\n<h4>Teorema de Pitágoras</h4>\n<ul>\n<li>Conocimiento y aplicación del teorema de Pitágoras</li>\n<li>Conocimiento del recíproco (converso) del teorema de Pitágoras</li>\n</ul>\n<h4>Aplicaciones del teorema de Pitágoras</h4>\n<ul>\n<li>Modelización de situaciones reales utilizando el teorema de Pitágoras</li>\n</ul>\n<h4>Razones trigonométricas</h4>\n<ul>\n<li>Definición y reconocimiento de seno, coseno y tangente de un ángulo agudo en un triángulo rectángulo</li>\n<li>Aplicación de las razones trigonométricas en problemas geométricos</li>\n</ul>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1688,11 +3214,35 @@ $("p.toggle-idevice a").click();
   <odePageId>page-mt6x3dke-r5m7wmhb6</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Tema 4 - Proporcionalidad y la función afín</pageName>
-  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Tema 4 - Proporcionalidad y la función afín</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tema 4 - Proporcionalidad y la función afín</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -1703,6 +3253,26 @@ $("p.toggle-idevice a").click();
       <iconName></iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -1783,6 +3353,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties><![CDATA[{"textTextarea":"<p>\n<script>\n$(function() {\n$(\"p.toggle-idevice a\").click();\n});\n</script>\n</p>\n<h4>Proporcionalidad directa</h4>\n<ul>\n<li>Modelización de fenómenos mediante la relación \\( y = k \\cdot x \\)</li>\n<li>Uso de tablas de valores</li>\n</ul>\n<h4>Proporcionalidad inversa</h4>\n<ul>\n<li>Modelización de fenómenos mediante la relación \\( y = \\frac{k}{x} \\)</li>\n<li>Representación gráfica y uso de tablas de valores</li>\n</ul>\n<h4>Representación de proporciones directas e inversas</h4>\n<ul>\n<li>Identificación de proporcionalidad a partir de la relación entre dos cantidades</li>\n<li>Reescritura de fórmulas en distintas formas y sustitución numérica simple</li>\n</ul>\n<h4>Relaciones y funciones</h4>\n<ul>\n<li>Diferenciación entre relación y función (incluido test de la recta vertical)</li>\n<li>Definición de función mediante notación funcional \\( y = f(x) \\)</li>\n</ul>\n<h4>Variables y parámetros</h4>\n<ul>\n<li>Diferenciación entre variables y parámetros</li>\n</ul>\n<h4>Ecuaciones lineales</h4>\n<ul>\n<li>Resolución de ecuaciones lineales, incluyendo fracciones algebraicas</li>\n</ul>\n<h4>Ecuación de la recta</h4>\n<ul>\n<li>Forma de la recta: \\( y = mx + p \\)</li>\n<li>Determinación de la ecuación de una recta a partir de dos puntos, o un punto y la pendiente</li>\n</ul>\n<h4>Gráfica de la dependencia lineal</h4>\n<ul>\n<li>Representación gráfica de funciones lineales</li>\n<li>Uso de herramientas tecnológicas para graficar funciones lineales</li>\n<li>Interpretación gráfica de los parámetros \\( m \\) y \\( p \\)</li>\n<li>Determinación de las intersecciones con los ejes (horizontal y vertical)</li>\n</ul>\n<h4>Funciones lineales y resolución de problemas</h4>\n<ul>\n<li>Determinación del valor nulo o raíz de una función lineal</li>\n<li>Reconocimiento y resolución de problemas utilizando modelos lineales</li>\n</ul>\n<h4>Ecuación general de la recta</h4>\n<ul>\n<li>Aplicación de la forma general \\( ax + by + c = 0 \\)</li>\n<li>Conversión entre las formas \\( ax + by + c = 0 \\) y \\( y = mx + p \\)</li>\n</ul>\n<h4>Exploración con herramientas tecnológicas</h4>\n<ul>\n<li>Verificación de resultados con el uso de herramientas tecnológicas</li>\n<li>Manipulación dinámica de parámetros en gráficos de rectas</li>\n</ul>\n<h4>Relaciones entre rectas</h4>\n<ul>\n<li>Investigación de la condición de paralelismo y perpendicularidad entre rectas</li>\n</ul>\n<h4>Colinealidad de puntos</h4>\n<ul>\n<li>Demostración dinámica de que puntos que satisfacen \\( ax + by + c = 0 \\) son colineales</li>\n</ul>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1793,11 +3375,35 @@ $("p.toggle-idevice a").click();
   <odePageId>page-mt6x3dke-4j2o7k0bl</odePageId>
   <odeParentPageId>page-mt6x3dke-r5m7wmhb6</odeParentPageId>
   <pageName>La función afín - Ecuaciones de rectas</pageName>
-  <odeNavStructureOrder>20</odeNavStructureOrder>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>La función afín - Ecuaciones de rectas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La función afín - Ecuaciones de rectas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -1808,6 +3414,26 @@ $("p.toggle-idevice a").click();
       <iconName>udl_eng_caso</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -1824,6 +3450,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties><![CDATA[{"textTextarea":"<ol>\n<li><a href=\"https://nrich.maths.org/problems/how-steep-slope\" target=\"_blank\" rel=\"noopener\">How steep is the slope? | NRICH</a></li>\n<li><a href=\"https://nrich.maths.org/games/diamond-collector\" target=\"_blank\" rel=\"noopener\">Diamond collector</a></li>\n<li><a href=\"https://nrich.maths.org/problems/translating-lines?tab=overview\" target=\"_blank\" rel=\"noopener\">Translating Lines | NRICH</a></li>\n<li><a href=\"https://nrich.maths.org/problems/reflecting-lines\" target=\"_blank\" rel=\"noopener\">Reflecting Lines | NRICH</a></li>\n</ol>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1834,11 +3472,35 @@ $("p.toggle-idevice a").click();
   <odePageId>page-mt6x3dke-fli2gjlxn</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Tema 5 - Sistemas de ecuaciones</pageName>
-  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Tema 5 - Sistemas de ecuaciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tema 5 - Sistemas de ecuaciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -1849,6 +3511,26 @@ $("p.toggle-idevice a").click();
       <iconName></iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -1881,6 +3563,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties><![CDATA[{"textTextarea":"<p>\n<script>\n$(function() {\n$(\"p.toggle-idevice a\").click();\n});\n</script>\n</p>\n<h4>Resolución gráfica de sistemas de ecuaciones</h4>\n<ul>\n<li>Resolución geométrica de sistemas de ecuaciones lineales en papel</li>\n<li>Resolución gráfica de sistemas mediante herramientas tecnológicas</li>\n</ul>\n<h4>Resolución algebraica de sistemas de ecuaciones</h4>\n<ul>\n<li>Resolución de sistemas por el método de sustitución</li>\n<li>Resolución de sistemas por el método de igualación o eliminación</li>\n</ul>\n<h4>Aplicación de sistemas a situaciones reales</h4>\n<ul>\n<li>Formulación de sistemas de ecuaciones a partir de problemas de la vida cotidiana</li>\n<li>Resolución de sistemas formulados en contexto</li>\n</ul>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1891,11 +3585,35 @@ $("p.toggle-idevice a").click();
   <odePageId>page-mt6x3dke-9b76erf83</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Tema 6 - Polinomios</pageName>
-  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Tema 6 - Polinomios</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tema 6 - Polinomios</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -1906,6 +3624,26 @@ $("p.toggle-idevice a").click();
       <iconName></iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -1963,6 +3701,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties><![CDATA[{"textTextarea":"<p>\n<script>\n$(function() {\n$(\"p.toggle-idevice a\").click();\n});\n</script>\n</p>\n<h4>Expresiones polinómicas</h4>\n<ul>\n<li>Reconocimiento de expresiones polinómicas y cálculo de su valor</li>\n<li>Simplificación y ordenación de expresiones polinómicas</li>\n<li>Reconocimiento de expresiones algebraicamente equivalentes</li>\n</ul>\n<h4>Operaciones con polinomios</h4>\n<ul>\n<li>Suma y multiplicación de expresiones polinómicas</li>\n<li>Factorización de polinomios simples</li>\n</ul>\n<h4>Identidades notables</h4>\n<ul>\n<li>Aplicación de identidades:\n<ul>\n<li>\\( (a + b)^2 = a^2 + 2ab + b^2 \\)</li>\n<li>\\( (a + b)(a - b) = a^2 - b^2 \\)</li>\n</ul>\n</li>\n</ul>\n<h4>Triángulo de Pascal</h4>\n<ul>\n<li>Exploración del desarrollo de \\( (a + b)^n \\)</li>\n<li>Relación con los coeficientes del triángulo de Pascal</li>\n</ul>\n<h4>Funciones potencia</h4>\n<ul>\n<li>Estudio de modelos que responden a relaciones de potencia</li>\n<li>Análisis de gráficos y tablas de valores con software de representación gráfica</li>\n</ul>\n<h4>Ecuaciones cuadráticas</h4>\n<ul>\n<li>Resolución de ecuaciones cuadráticas simples:\n<ul>\n<li>\\( ax^2 = b \\), con \\( a, b \\in \\mathbb{Q} \\)</li>\n<li>\\( ax^2 + bx = 0 \\), con \\( a, b \\in \\mathbb{Q} \\)</li>\n</ul>\n</li>\n<li>Resolución gráfica o con herramienta tecnológica de ecuaciones cuadráticas</li>\n</ul>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1973,11 +3723,35 @@ $("p.toggle-idevice a").click();
   <odePageId>page-mt6x3dke-m2ze01lb9</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Tema 7 - Semejanza de triángulos: trigonometría. La circunferencia</pageName>
-  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Tema 7 - Semejanza de triángulos: trigonometría. La circunferencia</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tema 7 - Semejanza de triángulos: trigonometría. La circunferencia</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -1988,6 +3762,26 @@ $("p.toggle-idevice a").click();
       <iconName></iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -2039,6 +3833,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties><![CDATA[{"textTextarea":"<p>\n<script>\n$(function() {\n$(\"p.toggle-idevice a\").click();\n});\n</script>\n</p>\n<h4>Razones trigonométricas en triángulos rectángulos</h4>\n<ul>\n<li>Definición de las razones trigonométricas: seno, coseno y tangente de un ángulo agudo</li>\n<li>Reconocimiento de las razones trigonométricas en triángulos rectángulos</li>\n<li>Aplicación de las razones seno, coseno y tangente en la resolución de triángulos rectángulos</li>\n<li>Comprensión de la propiedad \\( \\tan p = \\frac{\\sin p}{\\cos p} \\)</li>\n</ul>\n<h4>Elementos de la circunferencia</h4>\n<ul>\n<li>Definición de circunferencia mediante construcción con compás</li>\n<li>Dibujo de circunferencia, arco, cuerda, sector circular y arco relacionado</li>\n<li>Conocimiento de la fórmula de la circunferencia y del área del círculo</li>\n</ul>\n<h4>Arcos y sectores circulares</h4>\n<ul>\n<li>Cálculo de la longitud de un arco</li>\n<li>Cálculo del área de un sector circular</li>\n</ul>\n<h4>Posición relativa recta-circunferencia</h4>\n<ul>\n<li>Investigación de la posición relativa de rectas tangentes y secantes respecto a una circunferencia</li>\n</ul>\n<h4>Triángulos rectángulos inscritos en una circunferencia</h4>\n<ul>\n<li>Definición y análisis de las propiedades de triángulos rectángulos inscritos en una circunferencia</li>\n</ul>\n<h4>Ampliaciones y reducciones de figuras</h4>\n<ul>\n<li>Comprensión del concepto de ampliación y reducción como transformación proporcional de longitudes</li>\n<li>Uso del factor de escala en figuras similares</li>\n<li>Cálculo del factor de escala en una ampliación</li>\n<li>Estudio del efecto del factor de escala sobre ángulos, longitudes, áreas y volúmenes</li>\n<li>Investigación de invariantes geométricos en ampliaciones</li>\n</ul>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -2050,6 +3856,26 @@ $("p.toggle-idevice a").click();
       <iconName>think</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -2103,6 +3929,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties><![CDATA[{"textTextarea":"<h4>Procesos aleatorios en contextos reales</h4>\n<ul>\n<li>Procesos aleatorios en la vida cotidiana</li>\n<li>Procesos aleatorios en contextos científicos</li>\n</ul>\n<h4>Distribuciones discretas uniformes</h4>\n<ul>\n<li>Distribución uniforme discreta en lanzamientos de moneda</li>\n<li>Distribución uniforme discreta en lanzamiento de dados</li>\n</ul>\n<h4>Distribuciones discretas no uniformes</h4>\n<ul>\n<li>Distribución de Poisson:\n<ul>\n<li>Número de accidentes de tráfico por día</li>\n<li>Emisión de partículas alfa por muestra radiactiva</li>\n<li>Número de errores de impresión por página en un libro</li>\n</ul>\n</li>\n<li>Ley de Benford y dígitos anómalos</li>\n</ul>\n<h4>Valor esperado en contextos aplicados</h4>\n<ul>\n<li>Valor esperado de ganancias en juegos de azar</li>\n<li>Comparación de juegos o seguros usando valor esperado para evaluar equidad</li>\n</ul>\n<h4>Distribución uniforme discreta</h4>\n<ul>\n<li>Valor esperado y varianza de una variable \\( X \\) con distribución uniforme en \\( \\{1, 2, \\ldots, n\\} \\):\n<ul>\n<li>\\( E(X) = \\frac{n+1}{2} \\)</li>\n<li>\\( \\text{Var}(X) = \\frac{n^2 - 1}{12} \\)</li>\n</ul>\n</li>\n</ul>\n<h4>Combinaciones lineales de variables aleatorias</h4>\n<ul>\n<li>Exploración de combinaciones lineales de variables aleatorias</li>\n</ul>\n<h4>Exploración tecnológica de la distribución binomial</h4>\n<ul>\n<li>Análisis del efecto de los parámetros sobre la simetría de la distribución binomial utilizando herramientas tecnológicas</li>\n</ul>"}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -2113,11 +3951,35 @@ $("p.toggle-idevice a").click();
   <odePageId>page-mt6x3dke-p2v4f64j9</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Tema 8 - Probabilidad y estadística</pageName>
-  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Tema 8 - Probabilidad y estadística</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tema 8 - Probabilidad y estadística</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -2128,6 +3990,26 @@ $("p.toggle-idevice a").click();
       <iconName></iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -2258,6 +4140,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties><![CDATA[{"textTextarea":"<p>\n<script>\n$(function() {\n$(\"p.toggle-idevice a\").click();\n});\n</script>\n</p>\n<h3>Estadística</h3>\n<h4>Tipos de datos</h4>\n<ul>\n<li>Clasificación de los datos según su naturaleza: nominales, ordinales, de intervalo o de razón (categóricos o numéricos)</li>\n<li>Análisis crítico de los datos según el contexto</li>\n<li>Interpretación crítica y reflexión sobre el uso y abuso de la estadística</li>\n</ul>\n<h4>Frecuencias estadísticas</h4>\n<ul>\n<li>Significado de frecuencias absolutas, relativas y acumuladas</li>\n<li>Cálculo de frecuencias a partir de datos en bruto, mediante proporciones o porcentajes</li>\n<li>Uso de herramientas tecnológicas para calcular y representar frecuencias</li>\n<li>Comparación de conjuntos de datos mediante diferentes tipos de frecuencias</li>\n</ul>\n<h4>Tablas de frecuencias</h4>\n<ul>\n<li>Organización de datos en tablas de frecuencia (manual o digital)</li>\n<li>Representación de frecuencias absolutas, relativas y acumuladas en tablas</li>\n</ul>\n<h4>Diagrama de tallo y hoja</h4>\n<ul>\n<li>Organización de conjuntos pequeños de datos (hasta 25 elementos) en un diagrama de tallo y hoja</li>\n</ul>\n<h4>Medidas de tendencia central</h4>\n<ul>\n<li>Comprensión y uso de medidas de tendencia central (media, moda y mediana)</li>\n<li>Elección adecuada de la medida según el tipo de datos</li>\n</ul>\n<h4>Moda</h4>\n<ul>\n<li>Identificación e interpretación de la moda en contextos apropiados</li>\n<li>Lectura de la moda en tablas de frecuencia</li>\n</ul>\n<h4>Media</h4>\n<ul>\n<li>Cálculo e interpretación de la media aritmética para datos cuantitativos de nivel de intervalo o razón</li>\n<li>Lectura de la media en tablas de frecuencia</li>\n</ul>\n<h4>Mediana</h4>\n<ul>\n<li>Determinación de la mediana para un conjunto de datos, en bruto o en tablas de frecuencia</li>\n</ul>\n<h4>Cuartiles</h4>\n<ul>\n<li>Significado y cálculo de los cuartiles de un conjunto de datos</li>\n</ul>\n<h4>Medidas de dispersión</h4>\n<ul>\n<li>Significado y utilidad de las medidas de dispersión</li>\n<li>Elección adecuada de las medidas de dispersión según el contexto</li>\n<li>Interpretación de los valores de dispersión</li>\n</ul>\n<h4>Medidas de dispersión</h4>\n<ul>\n<li>Significado del rango y procedimiento para calcularlo a partir de un conjunto de datos</li>\n<li>Significado del rango intercuartílico (IQR) y procedimiento para calcularlo</li>\n</ul>\n<h4>Representaciones gráficas e interpretación</h4>\n<ul>\n<li>Interpretación de gráficos en relación con medidas de tendencia central y dispersión</li>\n<li>Interpretación y construcción de gráficos de barras a partir de conjuntos de datos adecuados</li>\n<li>Interpretación y construcción de polígonos de frecuencia acumulada</li>\n<li>Interpretación y construcción de histogramas con datos agrupados y clases de igual amplitud</li>\n<li>Notión de densidad en histogramas y diferencia con gráficos de barras</li>\n</ul>\n<h4>Diagramas de caja (boxplot)</h4>\n<ul>\n<li>Interpretación de diagramas de caja</li>\n<li>Construcción de boxplot a partir de un conjunto de datos de nivel de medida de intervalo o de razón</li>\n</ul>\n<h4>Distribuciones de frecuencias</h4>\n<ul>\n<li>Comparación e interpretación de distribuciones de frecuencia según:\n<ul>\n<li>media y mediana</li>\n<li>rango intercuartílico</li>\n</ul>\n</li>\n</ul>\n<h4>Combinación de histogramas y diagramas de caja</h4>\n<ul>\n<li>Representación simultánea de histogramas y diagramas de caja</li>\n<li>Comparación de distribuciones mediante histogramas y boxplots</li>\n</ul>\n<h3>Probabilidad</h3>\n<h4>Espacio muestral y eventos</h4>\n<ul>\n<li>Definición del espacio muestral en un experimento aleatorio</li>\n<li>Enumeración de los posibles resultados de un experimento</li>\n</ul>\n<h4>Diagramas de Venn</h4>\n<ul>\n<li>Representación de subconjuntos del espacio muestral mediante diagramas de Venn</li>\n<li>Representación de eventos y relaciones lógicas (intersección, unión, complemento)</li>\n</ul>\n<h4>Árboles de probabilidad</h4>\n<ul>\n<li>Representación de eventos en un árbol de probabilidad</li>\n<li>Exploración de todos los resultados posibles mediante ramificaciones (máximo 3 niveles)</li>\n</ul>\n<h4>Conceptos de eventos en probabilidad</h4>\n<ul>\n<li>Comprensión de la probabilidad a partir de la frecuencia relativa</li>\n<li>Definición y análisis de eventos complementarios</li>\n<li>Definición y análisis de eventos independientes</li>\n<li>Definición y análisis de eventos mutuamente excluyentes</li>\n<li>Definición y análisis de eventos exhaustivos</li>\n</ul>\n<h4>Representación y cálculo de probabilidades</h4>\n<ul>\n<li>Determinación de probabilidades mediante diagramas de Venn</li>\n<li>Determinación de probabilidades mediante diagramas de árbol</li>\n</ul>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -2269,6 +4163,26 @@ $("p.toggle-idevice a").click();
       <iconName>think</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -2298,6 +4212,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties><![CDATA[{"textTextarea":"<h4>Representación de soluciones como lugares geométricos</h4>\n<ul>\n<li>Representación gráfica de soluciones de una ecuación como lugar geométrico</li>\n</ul>\n<h4>Relación entre matemáticas y filosofía</h4>\n<ul>\n<li>Conexiones entre pensamiento lógico y filosófico</li>\n<li>Geometría cartesiana como puente entre matemáticas y filosofía</li>\n</ul>\n<h4>Ecuación de la circunferencia fuera del origen</h4>\n<ul>\n<li>Coordenadas del centro y radio de una circunferencia no centrada en el origen, a partir de su ecuación</li>\n<li>Investigación de la ecuación algebraica de una circunferencia</li>\n</ul>\n<h4>Historia y tipos de geometría</h4>\n<ul>\n<li>Geometría euclidiana y el Postulado de las Paralelas</li>\n<li>Comparación entre espacios euclidianos, elípticos e hiperbólicos</li>\n</ul>"}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -2308,11 +4234,35 @@ $("p.toggle-idevice a").click();
   <odePageId>page-mt6x3dke-o6yhsnpuw</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Tema 9 - Vectores</pageName>
-  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Tema 9 - Vectores</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tema 9 - Vectores</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -2323,6 +4273,26 @@ $("p.toggle-idevice a").click();
       <iconName></iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -2366,6 +4336,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties><![CDATA[{"textTextarea":"<p>\n<script>\n$(function() {\n$(\"p.toggle-idevice a\").click();\n});\n</script>\n</p>\n<h4>Coordenadas y puntos en el plano</h4>\n<ul>\n<li>Interpretación de pares ordenados como puntos en el plano</li>\n<li>Construcción del sistema de coordenadas a partir de tres puntos no colineales</li>\n<li>Representación del vector de posición mediante \\( \\vec{OM} = x \\cdot \\vec{i} + y \\cdot \\vec{j} \\)</li>\n</ul>\n<h4>Vectores y transformaciones en el plano</h4>\n<ul>\n<li>Uso de vectores como operadores de traslación</li>\n<li>Suma y resta de vectores</li>\n<li>Vector nulo, vector opuesto y paralelogramo como representación gráfica</li>\n</ul>\n<h4>Vectores libres</h4>\n<ul>\n<li>Multiplicación de vectores por escalares</li>\n<li>Uso de combinaciones lineales de vectores de posición en problemas geométricos</li>\n</ul>\n<h4>Paralelogramo y vectores colineales</h4>\n<ul>\n<li>Aplicación de la fórmula del paralelogramo: \\[ \\vec{AB} = \\vec{CD} \\Leftrightarrow \\vec{AC} = \\vec{BD} \\]</li>\n<li>Investigación de vectores colineales y su relación con rectas paralelas</li>\n</ul>\n<h4>Operadores en el plano</h4>\n<ul>\n<li>Reconocimiento de que proyecciones paralelas, traslaciones, homotecias y rotaciones de 180° transforman vectores iguales en vectores iguales</li>\n</ul>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -2376,11 +4358,35 @@ $("p.toggle-idevice a").click();
   <odePageId>page-mt6x3dke-ohbvb8kw9</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Créditos</pageName>
-  <odeNavStructureOrder>21</odeNavStructureOrder>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -2391,6 +4397,26 @@ $("p.toggle-idevice a").click();
       <iconName>udl_rep_descarga</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
@@ -2423,6 +4449,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
