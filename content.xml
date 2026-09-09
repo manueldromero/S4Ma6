@@ -56,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1788451468321</value>
+    <value>1788940113395</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -633,7 +633,7 @@
         </odePagStructureProperty>
         <odePagStructureProperty>
           <key>minimized</key>
-          <value>false</value>
+          <value>true</value>
         </odePagStructureProperty>
         <odePagStructureProperty>
           <key>cssClass</key>
@@ -710,7 +710,7 @@ $("p.toggle-idevice a").click();
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
-          <value>true</value>
+          <value>false</value>
         </odePagStructureProperty>
         <odePagStructureProperty>
           <key>teacherOnly</key>
@@ -738,6 +738,65 @@ $("p.toggle-idevice a").click();
           <htmlView><![CDATA[<div class="listacotejo-IDevice"><div class="ctj-instructions CTJ-instructions"><p>Completa la lista de cotejo marcando las casillas al realizar las actividades correspondientes.</p></div><div class="listacotejo-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%E6%F7%F8%FD%B0%BE%B0%FB%F6%B0%A8%B0%A0%A2%A0%A7%AB%A3%A4%A0%A3%A0%A2%A7%BF%A3%A0%A2%B0%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%DE%F3%E1%B2%E1%FB%F5%E7%FB%F7%FC%E6%F7%E1%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B2%E1%FD%FC%B2%F4%E7%FC%F6%F3%FF%F7%FC%E6%F3%FE%F7%E1%B2%F7%FC%B2%F7%FE%B2%E6%F7%FF%F3%B0%BE%B0%E1%E7%F0%E6%FB%E6%FE%F7%B0%A8%B0%B0%BE%B0%FE%F7%E4%F7%FE%E1%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%B0%A1%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D4%E0%F3%F1%F1%FB%FD%FC%F7%E1%B2%F7%FC%B2%FE%F3%B2%E0%F7%F1%E6%F3%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%B2%E0%F5%F0%BA%A0%A7%A7%BE%B2%A0%A7%A7%BE%B2%A0%A7%A7%BB%A9%CE%B0%AC%D6%FB%F0%E7%F8%F3%E0%B2%F4%E0%F3%F1%F1%FB%FD%FC%F7%E1%B2%F7%FC%B2%FE%F3%B2%E0%F7%F1%E6%F3%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D1%FD%FC%FD%F1%F7%E0%B2%E3%E7%7B%B2%F4%E0%F3%F1%F1%FBa%FC%B2%F7%E1%B2%E7%FC%B2%E2%E7%FC%E6%FD%B2%F6%F7%B2%FE%F3%B2%E0%F7%F1%E6%F3%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A1%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D4%E0%F3%F1%F1%FB%FD%FC%F7%E1%B2%EB%B2%F6%F7%F1%FB%FF%F3%FE%F7%E1%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D6%F7%B2%F4%E0%F3%F1%F1%FBa%FC%B2%F3%B2%F6%F7%F1%FB%FF%F3%FE%B2-%C3%E7%7B%B2%E6%FB%E2%FD%B2%F6%F7%B2%F6%F7%F1%FB%FF%F3%FE%B2%F7%E1%AD%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%B2%E0%F5%F0%BA%A0%A7%A7%BE%B2%A0%A7%A7%BE%B2%A0%A7%A7%BB%A9%CE%B0%AC%D6%F7%B2%F4%E0%F3%F1%F1%FBa%FC%B2%F3%B2%F6%F7%F1%FB%FF%F3%FE%B2-%C3%E7%7B%B2%E6%FB%E2%FD%B2%F6%F7%B2%F6%F7%F1%FB%FF%F3%FE%B2%F7%E1%AD%B2%BA%A0%BB%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D1%F3%FE%F1%E7%FE%F3%F6%FD%E0%F3%B2%F6%F7%B2%F4%E0%F3%F1%F1%FB%FD%FC%F7%E1%B2%F5%F7%FC%F7%E0%F3%E6%E0%FB%F1%F7%E1%B4%FC%F0%E1%E2%A9%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%B2%E0%F5%F0%BA%A0%A7%A7%BE%B2%A0%A7%A7%BE%B2%A0%A7%A7%BB%A9%CE%B0%AC%D7%E4%F3%FEh%F3%B2%E1%FB%B2%E1%F3%F0%F7%E1%B2%E2%F3%E1%F3%E0%B2%F3%B2%F4%E0%F3%F1%F1%FBa%FC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A1%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%C6%FB%E2%FD%E1%B2%F6%F7%B2%FCh%FF%F7%E0%FD%E1%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D6%FB%E1%E6%FB%FC%E6%FD%E1%B2%E6%FB%E2%FD%E1%B2%F6%F7%B2%FCh%FF%F7%E0%FD%E1%AE%F0%E0%AC%C0%F7%F3%FE%FB%E8%F3%E0%B2%F7%FE%B2%E6%F7%E1%E6%B2%F6%F7%B2%F1%FD%FC%FD%F1%FB%FF%FB%F7%FC%E6%FD%E1%B2%E1%FD%F0%E0%F7%B2%E6%FB%E2%FD%E1%B2%F6%F7%B2%FCh%FF%F7%E0%FD%E1%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A1%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D4%F3%F1%E6%FD%E0%F7%E1%B2%E2%E0%FB%FF%FD%E1%B2%EB%B2%FF%F1%FF%B2%BF%B2%DF%D1%D6%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%B2%E0%F5%F0%BA%A0%A7%A7%BE%B2%A0%A7%A7%BE%B2%A0%A7%A7%BB%A9%CE%B0%AC%C0%F7%E2%F3%E1%F3%B2%FE%F3%B2%F6%F7%E1%F1%FD%FF%E2%FD%E1%FB%F1%FBa%FC%B2%F7%FC%B2%F4%F3%F1%E6%FD%E0%F7%E1%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%C0%F7%E2%F3%E1%F3%B2%F7%FE%B2%F1s%FE%F1%E7%FE%FD%B2%F6%F7%FE%B2%FF%F1%FF%B2%EB%B2%DF%D1%D6%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%CF%BE%B0%FA%F3%E1%DE%FD%F5%FD%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%DE%FD%F5%FD%B0%A8%B0%B0%BE%B0%FA%F3%E1%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%B0%B0%BE%B0%FA%F3%E1%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%E6%E0%E7%F7%BE%B0%E7%E0%FE%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%B0%B0%BE%B0%E1%F3%E4%F7%D6%F3%E6%F3%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E1%F7%E0%D6%F3%E6%F3%B0%A8%F4%F3%FE%E1%F7%BE%B0%F4%FD%FD%E6%F7%E0%B0%A8%B0%D7%E1%E6%F3%B2%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%E1%A8%BD%BD%F7%E1%BC%E5%FB%F9%FB%E2%F7%F6%FB%F3%BC%FD%E0%F5%BD%E5%FB%F9%FB%BD%DE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%FF%E2%E0%FD%F0%F3%F1%FB%B7%D1%A1%B7%D0%A1%FC%AC%FE%FB%E1%E6%F3%B2%F6%F7%B2%F1%FD%E6%F7%F8%FD%AE%BD%F3%AC%B2%E1%F7%B2%F7%FC%F1%E7%F7%FC%E6%E0%F3%B2%F0%F3%F8%FD%B2%E7%FC%F3%B2%FE%FB%F1%F7%FC%F1%FB%F3%AE%BD%F0%E0%AC%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%A8%BD%BD%F1%E0%F7%F3%E6%FB%E4%F7%F1%FD%FF%FF%FD%FC%E1%BC%FD%E0%F5%BD%FE%FB%F1%F7%FC%E1%F7%E1%BD%F0%EB%BF%E1%F3%BD%A6%BC%A2%AC%D1%E0%F7%F3%E6%FB%E4%F7%B2%D1%FD%FF%FF%FD%FC%E1%B2%C0%F7%F1%FD%FC%FD%F1%FB%FF%FB%F7%FC%E6%FD%BF%D1%FD%FF%E2%F3%E0%E6%FB%E0%B2%FB%F5%E7%F3%FE%B2%A6%BC%A2%B2%DB%FC%E6%F7%E0%FC%F3%E6%FB%FD%FC%F3%FE%B2%DE%FB%F1%F7%FC%E1%F7%AE%BD%F3%AC%B0%BE%B0%E7%E1%F7%C1%F1%FD%E0%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%D1%FD%FF%E2%FE%FB%E6%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B0%BE%B0%FF%E1%F5%D6%FD%FC%F7%B0%A8%B0%DA%F7%F1%FA%FD%B0%BE%B0%FF%E1%F5%DB%FC%C2%E0%FD%F5%E0%F7%E1%E1%B0%A8%B0%D7%FC%B2%E2%E0%FD%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C7%FC%E0%F7%F3%FE%FB%E8%F7%F6%B0%A8%B0%C1%FB%FC%B2%F1%FD%FF%E2%FE%F7%E6%F3%E0%B0%BE%B0%FF%E1%F5%E6%F3%E1%F9%DC%E7%FF%F0%F7%E0%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E6%F3%E0%F7%F3%E1%B0%BE%B0%FF%E1%F5%DC%F3%FF%F7%B0%A8%B0%DC%FD%FF%F0%E0%F7%B0%BE%B0%FF%E1%F5%D6%F3%E6%F7%B0%A8%B0%D4%F7%F1%FA%F3%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%B0%A8%B0%D6%F7%E1%F1%F3%E0%F5%F3%E0%B0%BE%B0%FF%E1%F5%DE%FB%E1%E6%B0%A8%B0%FE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%E6%F7%F8%FD%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%B0%A8%B0%E2%E7%FC%E6%FD%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C0%F7%FB%FC%FB%F1%FB%F3%E0%B0%BE%B0%FF%E1%F5%D6%F7%FE%F7%E6%F7%B0%A8%B0-%C1%F7%F5%E7%E0%FD%B2%E3%E7%F7%B2%F6%F7%E1%F7%F3%B2%F0%FD%E0%E0%F3%E0%B2%E6%FD%F6%FD%E1%B2%FE%FD%E1%B2%F1%F3%FF%E2%FD%E1%B2%F6%F7%FE%B2%F4%FD%E0%FF%E7%FE%F3%E0%FB%FD%AD%B0%EF%EF</div><div class="listacotejo-bns js-hidden">Navegador incompatible</div></div>]]></htmlView>
           <jsonProperties><![CDATA[{"typeGame":"Cotejo","id":"202591621205-120","title":"Las siguientes actividades son fundamentales en el tema","subtitle":"","levels":[{"type":"3","nivel":"0","item":"Fracciones en la recta","points":""},{"type":"0","nivel":"1","item":"<span style=\"background-color: rgb(255, 255, 255);\">Dibujar fracciones en la recta</span>","points":""},{"type":"0","nivel":"1","item":"Conocer qué fracción es un punto de la recta","points":""},{"type":"3","nivel":"0","item":"Fracciones y decimales","points":""},{"type":"0","nivel":"1","item":"De fracción a decimal ¿Qué tipo de decimal es?","points":""},{"type":"0","nivel":"1","item":"<span style=\"background-color: rgb(255, 255, 255);\">De fracción a decimal ¿Qué tipo de decimal es? (2)</span>","points":""},{"type":"0","nivel":"1","item":"Calculadora de fracciones generatrices&nbsp;","points":""},{"type":"0","nivel":"1","item":"<span style=\"background-color: rgb(255, 255, 255);\">Evalúa si sabes pasar a fracción</span>","points":""},{"type":"3","nivel":"0","item":"Tipos de números","points":""},{"type":"0","nivel":"1","item":"Distintos tipos de números<br>Realizar el test de conocimientos sobre tipos de números","points":""},{"type":"3","nivel":"0","item":"Factores primos y mcm - MCD","points":""},{"type":"0","nivel":"1","item":"<span style=\"background-color: rgb(255, 255, 255);\">Repasa la descomposición en factores</span>","points":""},{"type":"0","nivel":"1","item":"Repasa el cálculo del mcm y MCD","points":""}],"hasLogo":false,"urlLogo":"","hasCommunity":false,"urlCommunity":"","hasDecorative":true,"urlDecorative":"","saveData":false,"userData":false,"footer":"Esta <a href=https://es.wikipedia.org/wiki/Lista_de_comprobaci%C3%B3n>lista de cotejo</a> se encuentra bajo una licencia</br><a href=http://creativecommons.org/licenses/by-sa/4.0>Creative Commons Reconocimiento-Compartir igual 4.0 International License</a>","useScore":false,"msgs":{"msgComplit":"Completadas","msgDone":"Hecho","msgInProgress":"En proceso","msgUnrealized":"Sin completar","msgtaskNumber":"Número de tareas","msgName":"Nombre","msgDate":"Fecha","msgSave":"Descargar","msgList":"lista_de_cotejo","msgScore":"Puntuación","msgPoints":"puntos","msgPoint":"punto","msgReboot":"Reiniciar","msgDelete":"¿Seguro que desea borrar todos los campos del formulario?"}}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mt6x3dke-ghg9pj2tg</odePageId>
+      <odeBlockId>block-mtre5be9-b0qa3of26</odeBlockId>
+      <blockName>Materiales del tema</blockName>
+      <iconName>udl_eng_descarga</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mt6x3dke-ghg9pj2tg</odePageId>
+          <odeBlockId>block-mtre5be9-b0qa3of26</odeBlockId>
+          <odeIdeviceId>idevice-1788794647253-at4vubmzf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><a href="https://cloud.educa.madrid.org/s/JtW8kBDM7z4qCyn" target="_blank" title="" rel="noopener">Ficha 1: De las fracciones a los decimales</a></li>
+<li><a href="https://cloud.educa.madrid.org/s/b3NiAD2xQAFnFCZ" target="_blank" title="" rel="noopener">Ficha 2: De los decimales a las fracciones</a></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1788794647253-at4vubmzf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><a href=\"https://cloud.educa.madrid.org/s/JtW8kBDM7z4qCyn\" target=\"_blank\" title=\"\" rel=\"noopener\">Ficha 1: De las fracciones a los decimales</a></li>\n<li><a href=\"https://cloud.educa.madrid.org/s/b3NiAD2xQAFnFCZ\" target=\"_blank\" title=\"\" rel=\"noopener\">Ficha 2: De los decimales a las fracciones</a></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
               <key>visibility</key>
@@ -919,6 +978,18 @@ $("p.toggle-idevice a").click();
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1788451493152-f9otas96z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><!-- BLOQUE 1: EJERCICIO PARA ALUMNOS -->\n<div class=\"ejercicio-matematicas\">\n<table style=\"border-collapse: collapse !important; width: 100% !important; text-align: center !important; border: 1px solid #000 !important;\">\n<thead>\n<tr style=\"background-color: #f2f2f2 !important;\">\n<th style=\"border: 1px solid #000 !important; padding: 10px !important;\">Conjunto</th>\n<th style=\"border: 1px solid #000 !important; padding: 10px !important;\">¿Qué son?</th>\n<th style=\"border: 1px solid #000 !important; padding: 10px !important;\">¿Quiénes son?</th>\n<th style=\"border: 1px solid #000 !important; padding: 10px !important;\">¿Cómo se representan?</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important; height: 50px !important;\"><strong>Naturales</strong></td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important; height: 50px !important;\"><strong>Enteros</strong></td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important; height: 50px !important;\"><strong>Racionales</strong></td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important; height: 50px !important;\"><strong>Irracionales</strong></td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important; height: 50px !important;\"><strong>Reales</strong></td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n<td style=\"border: 1px solid #000 !important; padding: 15px !important;\"> </td>\n</tr>\n</tbody>\n</table>\n</div><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Solución\" data-text-a=\"Solución\" data-text-b=\"Solución\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><!-- BLOQUE 2: SOLUCIÓN COMPLETA -->\n<table border=\"1\" style=\"border-collapse: collapse; width: 100%; text-align: center;\">\n<thead>\n<tr style=\"background-color: #e6f2ff;\">\n<th>Conjunto</th>\n<th>¿Qué son?</th>\n<th>¿Quiénes son?</th>\n<th>¿Cómo se representan?</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Naturales</strong></td>\n<td>Positivos<br />Parte decimal = \\( 0 \\)</td>\n<td>\\( \\{1, 2, 3, \\dots, 9, 10, 11, \\dots\\} \\)</td>\n<td>\\( \\mathbb{N} \\)</td>\n</tr>\n<tr>\n<td><strong>Enteros</strong></td>\n<td>Positivos, Negativos y \\( 0 \\)<br />Parte decimal = \\( 0 \\)</td>\n<td>\\( \\{\\dots, -3, -2, -1, 0, 1, 2, 3, \\dots\\} \\)</td>\n<td>\\( \\mathbb{Z} \\)</td>\n</tr>\n<tr>\n<td><strong>Racionales</strong></td>\n<td>Razón = proporción / periódicos<br />\\( \\frac{a}{b} \\) con \\( a, b \\in \\mathbb{Z} \\) y \\( b \\neq 0 \\)</td>\n<td>\\( \\frac{a}{b} \\) con \\( a,b \\in \\mathbb{Z} \\), \\( b \\neq 0 \\)</td>\n<td>\\( \\mathbb{Q} \\)</td>\n</tr>\n<tr>\n<td><strong>Irracionales</strong></td>\n<td>Decimale\\(s\\) infinitos No periódicos</td>\n<td>Todo número decimal con infinitas cifras decimales no periódicas, como \\( \\pi = 3{,}1415\\dots \\) o \\(\\sqrt{2}\\)</td>\n<td>\\( \\mathbb{I} \\)</td>\n</tr>\n<tr>\n<td><strong>Reales</strong></td>\n<td>Todos los números anteriores (Racionales e Irracionales)</td>\n<td>Unión de \\( \\mathbb{Q} \\) e \\( \\mathbb{I} \\)</td>\n<td>\\( \\mathbb{R} \\)</td>\n</tr>\n</tbody>\n</table></div></div>","textFeedbackInput":"Solución","textFeedbackTextarea":"<!-- BLOQUE 2: SOLUCIÓN COMPLETA -->\n<table border=\"1\" style=\"border-collapse: collapse; width: 100%; text-align: center;\">\n<thead>\n<tr style=\"background-color: #e6f2ff;\">\n<th>Conjunto</th>\n<th>¿Qué son?</th>\n<th>¿Quiénes son?</th>\n<th>¿Cómo se representan?</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Naturales</strong></td>\n<td>Positivos<br />Parte decimal = \\( 0 \\)</td>\n<td>\\( \\{1, 2, 3, \\dots, 9, 10, 11, \\dots\\} \\)</td>\n<td>\\( \\mathbb{N} \\)</td>\n</tr>\n<tr>\n<td><strong>Enteros</strong></td>\n<td>Positivos, Negativos y \\( 0 \\)<br />Parte decimal = \\( 0 \\)</td>\n<td>\\( \\{\\dots, -3, -2, -1, 0, 1, 2, 3, \\dots\\} \\)</td>\n<td>\\( \\mathbb{Z} \\)</td>\n</tr>\n<tr>\n<td><strong>Racionales</strong></td>\n<td>Razón = proporción / periódicos<br />\\( \\frac{a}{b} \\) con \\( a, b \\in \\mathbb{Z} \\) y \\( b \\neq 0 \\)</td>\n<td>\\( \\frac{a}{b} \\) con \\( a,b \\in \\mathbb{Z} \\), \\( b \\neq 0 \\)</td>\n<td>\\( \\mathbb{Q} \\)</td>\n</tr>\n<tr>\n<td><strong>Irracionales</strong></td>\n<td>Decimale\\(s\\) infinitos No periódicos</td>\n<td>Todo número decimal con infinitas cifras decimales no periódicas, como \\( \\pi = 3{,}1415\\dots \\) o \\(\\sqrt{2}\\)</td>\n<td>\\( \\mathbb{I} \\)</td>\n</tr>\n<tr>\n<td><strong>Reales</strong></td>\n<td>Todos los números anteriores (Racionales e Irracionales)</td>\n<td>Unión de \\( \\mathbb{Q} \\) e \\( \\mathbb{I} \\)</td>\n<td>\\( \\mathbb{R} \\)</td>\n</tr>\n</tbody>\n</table>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -980,10 +1051,272 @@ $("p.toggle-idevice a").click();
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
+  <odePageId>page-mt6x3dke-2sns1v9t2</odePageId>
+  <odeParentPageId>page-mt6x3dke-ghg9pj2tg</odeParentPageId>
+  <pageName>Fracciones y decimales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Fracciones y decimales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Fracciones y decimales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mt6x3dke-2sns1v9t2</odePageId>
+      <odeBlockId>block-mt6x3dkh-a5ubod6ok</odeBlockId>
+      <blockName>¿Qué tipo de decimal es?</blockName>
+      <iconName>udl_exp_escribe</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mt6x3dke-2sns1v9t2</odePageId>
+          <odeBlockId>block-mt6x3dkh-a5ubod6ok</odeBlockId>
+          <odeIdeviceId>idevice-mt6x3dkh-ji6bjbfxa</odeIdeviceId>
+          <odeIdeviceTypeName>geogebra-activity</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="auto-geogebra auto-geogebra-AUsZf48v auto-geogebra-width-675 auto-geogebra-height-417 language-es auto-geogebra-scale-100 auto-geogebra-evaluation-id-0 auto-geogebra-ideviceid-2025916212728-120"><p><a href="https://www.geogebra.org/m/AUsZf48v" target="_blank">https://www.geogebra.org/m/AUsZf48v (Ventana nueva)</a></p><div class="auto-geogebra-author js-hidden">Javier%20Cayetano%20Rodr%EDguez,https%3A//ggbm.at/8178875,%BFQu%E9%20tipo%20de%20decimal%20es%20esta%20fracci%F3n%3F,1,Autor%EDa</div><div class="auto-geogebra-messages-evaluation">Actividad%20no%20completada,Actividad%20superada.%20Puntuaci%F3n%3A%20%25s,Actividad%20no%20superada.%20Puntuaci%F3n%3A%20%25s,Guardar%20la%20puntuaci%F3n</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mt6x3dke-2sns1v9t2</odePageId>
+      <odeBlockId>block-mt6x3dkh-kpakdy7x2</odeBlockId>
+      <blockName>¿Qué tipo de decimal es? (2)</blockName>
+      <iconName>udl_exp_escribe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mt6x3dke-2sns1v9t2</odePageId>
+          <odeBlockId>block-mt6x3dkh-kpakdy7x2</odeBlockId>
+          <odeIdeviceId>idevice-mt6x3dkh-9qail6c4a</odeIdeviceId>
+          <odeIdeviceTypeName>geogebra-activity</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="auto-geogebra auto-geogebra-g2SRbnKT auto-geogebra-width-675 auto-geogebra-height-417 language-es auto-geogebra-scale-100 auto-geogebra-evaluation-id-0 auto-geogebra-ideviceid-2025916212932-120"><div class="auto-geogebra-instructions"><p>
+<script type="text/javascript"> 
+  $(window).load(function(){
+    $.each([0,1,2,3,4], function(index , value ) {
+ $("p.toggle-idevice a").eq(value).click();
+    })
+  });
+</script>
+</p></div><p><a href="https://www.geogebra.org/m/g2SRbnKT" target="_blank">https://www.geogebra.org/m/g2SRbnKT (Ventana nueva)</a></p><div class="auto-geogebra-author js-hidden">Javier%20Cayetano%20Rodr%EDguez,https%3A//ggbm.at/8224396,%BFDe%20qu%E9%20tipo%20de%20decimal%20se%20trata%3F,1,Autor%EDa</div><div class="auto-geogebra-messages-evaluation">Actividad%20no%20completada,Actividad%20superada.%20Puntuaci%F3n%3A%20%25s,Actividad%20no%20superada.%20Puntuaci%F3n%3A%20%25s,Guardar%20la%20puntuaci%F3n</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mt6x3dke-2sns1v9t2</odePageId>
+      <odeBlockId>block-mt6x3dkh-jx1vlqqhj</odeBlockId>
+      <blockName>De periódico a fracción</blockName>
+      <iconName>udl_rep_destacado</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mt6x3dke-2sns1v9t2</odePageId>
+          <odeBlockId>block-mt6x3dkh-jx1vlqqhj</odeBlockId>
+          <odeIdeviceId>idevice-mt6x3dkh-i2cxry083</odeIdeviceId>
+          <odeIdeviceTypeName>geogebra-activity</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="auto-geogebra auto-geogebra-ev5aaazk auto-geogebra-width-779 auto-geogebra-height-469 language-es auto-geogebra-scale-100 auto-geogebra-evaluation-id-0 auto-geogebra-ideviceid-2025916214222-120"><p><a href="https://www.geogebra.org/m/ev5aaazk" target="_blank">https://www.geogebra.org/m/ev5aaazk (Ventana nueva)</a></p><div class="auto-geogebra-author js-hidden">Jos%E9%20M.%20Meli%E1n,https%3A//ggbm.at/18343751,Fracci%F3n%20generatriz,1,Autor%EDa</div><div class="auto-geogebra-messages-evaluation">Actividad%20no%20completada,Actividad%20superada.%20Puntuaci%F3n%3A%20%25s,Actividad%20no%20superada.%20Puntuaci%F3n%3A%20%25s,Guardar%20la%20puntuaci%F3n</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mt6x3dke-2sns1v9t2</odePageId>
+      <odeBlockId>block-mt6x3dkh-lzs2d69y8</odeBlockId>
+      <blockName>Evalúa si sabes pasar a fracción</blockName>
+      <iconName>udl_eng_objetivos</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mt6x3dke-2sns1v9t2</odePageId>
+          <odeBlockId>block-mt6x3dkh-lzs2d69y8</odeBlockId>
+          <odeIdeviceId>idevice-mt6x3dkh-r5cgnyw4n</odeIdeviceId>
+          <odeIdeviceTypeName>geogebra-activity</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="auto-geogebra auto-geogebra-UTEUv6zD auto-geogebra-width-907 auto-geogebra-height-450 language-es auto-geogebra-scale-100 auto-geogebra-evaluation-id-0 auto-geogebra-ideviceid-2025916214430-120"><p><a href="https://www.geogebra.org/m/UTEUv6zD" target="_blank">https://www.geogebra.org/m/UTEUv6zD (Ventana nueva)</a></p><div class="auto-geogebra-author js-hidden">Javier%20Cayetano%20Rodr%EDguez,https%3A//ggbm.at/4568671,Tipo%20de%20N%FAmero%20y%20Fracci%F3n%20Generatriz,1,Autor%EDa</div><div class="auto-geogebra-messages-evaluation">Actividad%20no%20completada,Actividad%20superada.%20Puntuaci%F3n%3A%20%25s,Actividad%20no%20superada.%20Puntuaci%F3n%3A%20%25s,Guardar%20la%20puntuaci%F3n</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>3</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
   <odePageId>page-mt6x3dke-dg92mofd5</odePageId>
   <odeParentPageId>page-mt6x3dke-ghg9pj2tg</odeParentPageId>
   <pageName>Fracciones en la recta</pageName>
-  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -1114,268 +1447,6 @@ $("p.toggle-idevice a").click();
           <htmlView><![CDATA[<div class="auto-geogebra auto-geogebra-dMnK5E7q auto-geogebra-width-700 auto-geogebra-height-423 language-es auto-geogebra-scale-100 auto-geogebra-evaluation-id-0 auto-geogebra-ideviceid-2025916212412-120"><p><a href="https://www.geogebra.org/m/dMnK5E7q" target="_blank">https://www.geogebra.org/m/dMnK5E7q (Ventana nueva)</a></p><div class="auto-geogebra-author js-hidden">Javier%20Cayetano%20Rodr%EDguez,https%3A//ggbm.at/7073582,De%20la%20recta%20num%E9rica%20a%20fracci%F3n,1,Autor%EDa</div><div class="auto-geogebra-messages-evaluation">Actividad%20no%20completada,Actividad%20superada.%20Puntuaci%F3n%3A%20%25s,Actividad%20no%20superada.%20Puntuaci%F3n%3A%20%25s,Guardar%20la%20puntuaci%F3n</div></div>]]></htmlView>
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-  </odePagStructures>
-</odeNavStructure>
-<odeNavStructure>
-  <odePageId>page-mt6x3dke-2sns1v9t2</odePageId>
-  <odeParentPageId>page-mt6x3dke-ghg9pj2tg</odeParentPageId>
-  <pageName>Fracciones y decimales</pageName>
-  <odeNavStructureOrder>2</odeNavStructureOrder>
-  <odeNavStructureProperties>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>Fracciones y decimales</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>visibility</key>
-      <value>true</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>highlight</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>hidePageTitle</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>editableInPage</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>Fracciones y decimales</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titleNode</key>
-      <value></value>
-    </odeNavStructureProperty>
-  </odeNavStructureProperties>
-  <odePagStructures>
-    <odePagStructure>
-      <odePageId>page-mt6x3dke-2sns1v9t2</odePageId>
-      <odeBlockId>block-mt6x3dkh-a5ubod6ok</odeBlockId>
-      <blockName>¿Qué tipo de decimal es?</blockName>
-      <iconName>udl_exp_escribe</iconName>
-      <odePagStructureOrder>0</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>page-mt6x3dke-2sns1v9t2</odePageId>
-          <odeBlockId>block-mt6x3dkh-a5ubod6ok</odeBlockId>
-          <odeIdeviceId>idevice-mt6x3dkh-ji6bjbfxa</odeIdeviceId>
-          <odeIdeviceTypeName>geogebra-activity</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="auto-geogebra auto-geogebra-AUsZf48v auto-geogebra-width-675 auto-geogebra-height-417 language-es auto-geogebra-scale-100 auto-geogebra-evaluation-id-0 auto-geogebra-ideviceid-2025916212728-120"><p><a href="https://www.geogebra.org/m/AUsZf48v" target="_blank">https://www.geogebra.org/m/AUsZf48v (Ventana nueva)</a></p><div class="auto-geogebra-author js-hidden">Javier%20Cayetano%20Rodr%EDguez,https%3A//ggbm.at/8178875,%BFQu%E9%20tipo%20de%20decimal%20es%20esta%20fracci%F3n%3F,1,Autor%EDa</div><div class="auto-geogebra-messages-evaluation">Actividad%20no%20completada,Actividad%20superada.%20Puntuaci%F3n%3A%20%25s,Actividad%20no%20superada.%20Puntuaci%F3n%3A%20%25s,Guardar%20la%20puntuaci%F3n</div></div>]]></htmlView>
-          <jsonProperties></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-    <odePagStructure>
-      <odePageId>page-mt6x3dke-2sns1v9t2</odePageId>
-      <odeBlockId>block-mt6x3dkh-kpakdy7x2</odeBlockId>
-      <blockName>¿Qué tipo de decimal es? (2)</blockName>
-      <iconName>udl_exp_escribe</iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>page-mt6x3dke-2sns1v9t2</odePageId>
-          <odeBlockId>block-mt6x3dkh-kpakdy7x2</odeBlockId>
-          <odeIdeviceId>idevice-mt6x3dkh-9qail6c4a</odeIdeviceId>
-          <odeIdeviceTypeName>geogebra-activity</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="auto-geogebra auto-geogebra-g2SRbnKT auto-geogebra-width-675 auto-geogebra-height-417 language-es auto-geogebra-scale-100 auto-geogebra-evaluation-id-0 auto-geogebra-ideviceid-2025916212932-120"><div class="auto-geogebra-instructions"><p>
-<script type="text/javascript"> 
-  $(window).load(function(){
-    $.each([0,1,2,3,4], function(index , value ) {
- $("p.toggle-idevice a").eq(value).click();
-    })
-  });
-</script>
-</p></div><p><a href="https://www.geogebra.org/m/g2SRbnKT" target="_blank">https://www.geogebra.org/m/g2SRbnKT (Ventana nueva)</a></p><div class="auto-geogebra-author js-hidden">Javier%20Cayetano%20Rodr%EDguez,https%3A//ggbm.at/8224396,%BFDe%20qu%E9%20tipo%20de%20decimal%20se%20trata%3F,1,Autor%EDa</div><div class="auto-geogebra-messages-evaluation">Actividad%20no%20completada,Actividad%20superada.%20Puntuaci%F3n%3A%20%25s,Actividad%20no%20superada.%20Puntuaci%F3n%3A%20%25s,Guardar%20la%20puntuaci%F3n</div></div>]]></htmlView>
-          <jsonProperties></jsonProperties>
-          <odeComponentsOrder>1</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-    <odePagStructure>
-      <odePageId>page-mt6x3dke-2sns1v9t2</odePageId>
-      <odeBlockId>block-mt6x3dkh-jx1vlqqhj</odeBlockId>
-      <blockName>De periódico a fracción</blockName>
-      <iconName>udl_rep_destacado</iconName>
-      <odePagStructureOrder>2</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>page-mt6x3dke-2sns1v9t2</odePageId>
-          <odeBlockId>block-mt6x3dkh-jx1vlqqhj</odeBlockId>
-          <odeIdeviceId>idevice-mt6x3dkh-i2cxry083</odeIdeviceId>
-          <odeIdeviceTypeName>geogebra-activity</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="auto-geogebra auto-geogebra-ev5aaazk auto-geogebra-width-779 auto-geogebra-height-469 language-es auto-geogebra-scale-100 auto-geogebra-evaluation-id-0 auto-geogebra-ideviceid-2025916214222-120"><p><a href="https://www.geogebra.org/m/ev5aaazk" target="_blank">https://www.geogebra.org/m/ev5aaazk (Ventana nueva)</a></p><div class="auto-geogebra-author js-hidden">Jos%E9%20M.%20Meli%E1n,https%3A//ggbm.at/18343751,Fracci%F3n%20generatriz,1,Autor%EDa</div><div class="auto-geogebra-messages-evaluation">Actividad%20no%20completada,Actividad%20superada.%20Puntuaci%F3n%3A%20%25s,Actividad%20no%20superada.%20Puntuaci%F3n%3A%20%25s,Guardar%20la%20puntuaci%F3n</div></div>]]></htmlView>
-          <jsonProperties></jsonProperties>
-          <odeComponentsOrder>2</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-    <odePagStructure>
-      <odePageId>page-mt6x3dke-2sns1v9t2</odePageId>
-      <odeBlockId>block-mt6x3dkh-lzs2d69y8</odeBlockId>
-      <blockName>Evalúa si sabes pasar a fracción</blockName>
-      <iconName>udl_eng_objetivos</iconName>
-      <odePagStructureOrder>3</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>page-mt6x3dke-2sns1v9t2</odePageId>
-          <odeBlockId>block-mt6x3dkh-lzs2d69y8</odeBlockId>
-          <odeIdeviceId>idevice-mt6x3dkh-r5cgnyw4n</odeIdeviceId>
-          <odeIdeviceTypeName>geogebra-activity</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="auto-geogebra auto-geogebra-UTEUv6zD auto-geogebra-width-907 auto-geogebra-height-450 language-es auto-geogebra-scale-100 auto-geogebra-evaluation-id-0 auto-geogebra-ideviceid-2025916214430-120"><p><a href="https://www.geogebra.org/m/UTEUv6zD" target="_blank">https://www.geogebra.org/m/UTEUv6zD (Ventana nueva)</a></p><div class="auto-geogebra-author js-hidden">Javier%20Cayetano%20Rodr%EDguez,https%3A//ggbm.at/4568671,Tipo%20de%20N%FAmero%20y%20Fracci%F3n%20Generatriz,1,Autor%EDa</div><div class="auto-geogebra-messages-evaluation">Actividad%20no%20completada,Actividad%20superada.%20Puntuaci%F3n%3A%20%25s,Actividad%20no%20superada.%20Puntuaci%F3n%3A%20%25s,Guardar%20la%20puntuaci%F3n</div></div>]]></htmlView>
-          <jsonProperties></jsonProperties>
-          <odeComponentsOrder>3</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
               <key>visibility</key>
