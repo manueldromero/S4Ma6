@@ -56,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1788940113395</value>
+    <value>1789448111636</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -703,64 +703,10 @@ $("p.toggle-idevice a").click();
     </odePagStructure>
     <odePagStructure>
       <odePageId>page-mt6x3dke-ghg9pj2tg</odePageId>
-      <odeBlockId>block-mt6x3dkg-zpbuexv4f</odeBlockId>
-      <blockName>Actividades a dominar en el tema</blockName>
-      <iconName>udl_exp_cuestionario</iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>page-mt6x3dke-ghg9pj2tg</odePageId>
-          <odeBlockId>block-mt6x3dkg-zpbuexv4f</odeBlockId>
-          <odeIdeviceId>idevice-mt6x3dkg-bthaglh91</odeIdeviceId>
-          <odeIdeviceTypeName>checklist</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="listacotejo-IDevice"><div class="ctj-instructions CTJ-instructions"><p>Completa la lista de cotejo marcando las casillas al realizar las actividades correspondientes.</p></div><div class="listacotejo-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%E6%F7%F8%FD%B0%BE%B0%FB%F6%B0%A8%B0%A0%A2%A0%A7%AB%A3%A4%A0%A3%A0%A2%A7%BF%A3%A0%A2%B0%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%DE%F3%E1%B2%E1%FB%F5%E7%FB%F7%FC%E6%F7%E1%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B2%E1%FD%FC%B2%F4%E7%FC%F6%F3%FF%F7%FC%E6%F3%FE%F7%E1%B2%F7%FC%B2%F7%FE%B2%E6%F7%FF%F3%B0%BE%B0%E1%E7%F0%E6%FB%E6%FE%F7%B0%A8%B0%B0%BE%B0%FE%F7%E4%F7%FE%E1%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%B0%A1%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D4%E0%F3%F1%F1%FB%FD%FC%F7%E1%B2%F7%FC%B2%FE%F3%B2%E0%F7%F1%E6%F3%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%B2%E0%F5%F0%BA%A0%A7%A7%BE%B2%A0%A7%A7%BE%B2%A0%A7%A7%BB%A9%CE%B0%AC%D6%FB%F0%E7%F8%F3%E0%B2%F4%E0%F3%F1%F1%FB%FD%FC%F7%E1%B2%F7%FC%B2%FE%F3%B2%E0%F7%F1%E6%F3%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D1%FD%FC%FD%F1%F7%E0%B2%E3%E7%7B%B2%F4%E0%F3%F1%F1%FBa%FC%B2%F7%E1%B2%E7%FC%B2%E2%E7%FC%E6%FD%B2%F6%F7%B2%FE%F3%B2%E0%F7%F1%E6%F3%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A1%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D4%E0%F3%F1%F1%FB%FD%FC%F7%E1%B2%EB%B2%F6%F7%F1%FB%FF%F3%FE%F7%E1%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D6%F7%B2%F4%E0%F3%F1%F1%FBa%FC%B2%F3%B2%F6%F7%F1%FB%FF%F3%FE%B2-%C3%E7%7B%B2%E6%FB%E2%FD%B2%F6%F7%B2%F6%F7%F1%FB%FF%F3%FE%B2%F7%E1%AD%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%B2%E0%F5%F0%BA%A0%A7%A7%BE%B2%A0%A7%A7%BE%B2%A0%A7%A7%BB%A9%CE%B0%AC%D6%F7%B2%F4%E0%F3%F1%F1%FBa%FC%B2%F3%B2%F6%F7%F1%FB%FF%F3%FE%B2-%C3%E7%7B%B2%E6%FB%E2%FD%B2%F6%F7%B2%F6%F7%F1%FB%FF%F3%FE%B2%F7%E1%AD%B2%BA%A0%BB%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D1%F3%FE%F1%E7%FE%F3%F6%FD%E0%F3%B2%F6%F7%B2%F4%E0%F3%F1%F1%FB%FD%FC%F7%E1%B2%F5%F7%FC%F7%E0%F3%E6%E0%FB%F1%F7%E1%B4%FC%F0%E1%E2%A9%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%B2%E0%F5%F0%BA%A0%A7%A7%BE%B2%A0%A7%A7%BE%B2%A0%A7%A7%BB%A9%CE%B0%AC%D7%E4%F3%FEh%F3%B2%E1%FB%B2%E1%F3%F0%F7%E1%B2%E2%F3%E1%F3%E0%B2%F3%B2%F4%E0%F3%F1%F1%FBa%FC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A1%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%C6%FB%E2%FD%E1%B2%F6%F7%B2%FCh%FF%F7%E0%FD%E1%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D6%FB%E1%E6%FB%FC%E6%FD%E1%B2%E6%FB%E2%FD%E1%B2%F6%F7%B2%FCh%FF%F7%E0%FD%E1%AE%F0%E0%AC%C0%F7%F3%FE%FB%E8%F3%E0%B2%F7%FE%B2%E6%F7%E1%E6%B2%F6%F7%B2%F1%FD%FC%FD%F1%FB%FF%FB%F7%FC%E6%FD%E1%B2%E1%FD%F0%E0%F7%B2%E6%FB%E2%FD%E1%B2%F6%F7%B2%FCh%FF%F7%E0%FD%E1%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A1%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D4%F3%F1%E6%FD%E0%F7%E1%B2%E2%E0%FB%FF%FD%E1%B2%EB%B2%FF%F1%FF%B2%BF%B2%DF%D1%D6%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%B2%E0%F5%F0%BA%A0%A7%A7%BE%B2%A0%A7%A7%BE%B2%A0%A7%A7%BB%A9%CE%B0%AC%C0%F7%E2%F3%E1%F3%B2%FE%F3%B2%F6%F7%E1%F1%FD%FF%E2%FD%E1%FB%F1%FBa%FC%B2%F7%FC%B2%F4%F3%F1%E6%FD%E0%F7%E1%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%C0%F7%E2%F3%E1%F3%B2%F7%FE%B2%F1s%FE%F1%E7%FE%FD%B2%F6%F7%FE%B2%FF%F1%FF%B2%EB%B2%DF%D1%D6%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%CF%BE%B0%FA%F3%E1%DE%FD%F5%FD%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%DE%FD%F5%FD%B0%A8%B0%B0%BE%B0%FA%F3%E1%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%B0%B0%BE%B0%FA%F3%E1%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%E6%E0%E7%F7%BE%B0%E7%E0%FE%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%B0%B0%BE%B0%E1%F3%E4%F7%D6%F3%E6%F3%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E1%F7%E0%D6%F3%E6%F3%B0%A8%F4%F3%FE%E1%F7%BE%B0%F4%FD%FD%E6%F7%E0%B0%A8%B0%D7%E1%E6%F3%B2%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%E1%A8%BD%BD%F7%E1%BC%E5%FB%F9%FB%E2%F7%F6%FB%F3%BC%FD%E0%F5%BD%E5%FB%F9%FB%BD%DE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%FF%E2%E0%FD%F0%F3%F1%FB%B7%D1%A1%B7%D0%A1%FC%AC%FE%FB%E1%E6%F3%B2%F6%F7%B2%F1%FD%E6%F7%F8%FD%AE%BD%F3%AC%B2%E1%F7%B2%F7%FC%F1%E7%F7%FC%E6%E0%F3%B2%F0%F3%F8%FD%B2%E7%FC%F3%B2%FE%FB%F1%F7%FC%F1%FB%F3%AE%BD%F0%E0%AC%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%A8%BD%BD%F1%E0%F7%F3%E6%FB%E4%F7%F1%FD%FF%FF%FD%FC%E1%BC%FD%E0%F5%BD%FE%FB%F1%F7%FC%E1%F7%E1%BD%F0%EB%BF%E1%F3%BD%A6%BC%A2%AC%D1%E0%F7%F3%E6%FB%E4%F7%B2%D1%FD%FF%FF%FD%FC%E1%B2%C0%F7%F1%FD%FC%FD%F1%FB%FF%FB%F7%FC%E6%FD%BF%D1%FD%FF%E2%F3%E0%E6%FB%E0%B2%FB%F5%E7%F3%FE%B2%A6%BC%A2%B2%DB%FC%E6%F7%E0%FC%F3%E6%FB%FD%FC%F3%FE%B2%DE%FB%F1%F7%FC%E1%F7%AE%BD%F3%AC%B0%BE%B0%E7%E1%F7%C1%F1%FD%E0%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%D1%FD%FF%E2%FE%FB%E6%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B0%BE%B0%FF%E1%F5%D6%FD%FC%F7%B0%A8%B0%DA%F7%F1%FA%FD%B0%BE%B0%FF%E1%F5%DB%FC%C2%E0%FD%F5%E0%F7%E1%E1%B0%A8%B0%D7%FC%B2%E2%E0%FD%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C7%FC%E0%F7%F3%FE%FB%E8%F7%F6%B0%A8%B0%C1%FB%FC%B2%F1%FD%FF%E2%FE%F7%E6%F3%E0%B0%BE%B0%FF%E1%F5%E6%F3%E1%F9%DC%E7%FF%F0%F7%E0%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E6%F3%E0%F7%F3%E1%B0%BE%B0%FF%E1%F5%DC%F3%FF%F7%B0%A8%B0%DC%FD%FF%F0%E0%F7%B0%BE%B0%FF%E1%F5%D6%F3%E6%F7%B0%A8%B0%D4%F7%F1%FA%F3%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%B0%A8%B0%D6%F7%E1%F1%F3%E0%F5%F3%E0%B0%BE%B0%FF%E1%F5%DE%FB%E1%E6%B0%A8%B0%FE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%E6%F7%F8%FD%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%B0%A8%B0%E2%E7%FC%E6%FD%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C0%F7%FB%FC%FB%F1%FB%F3%E0%B0%BE%B0%FF%E1%F5%D6%F7%FE%F7%E6%F7%B0%A8%B0-%C1%F7%F5%E7%E0%FD%B2%E3%E7%F7%B2%F6%F7%E1%F7%F3%B2%F0%FD%E0%E0%F3%E0%B2%E6%FD%F6%FD%E1%B2%FE%FD%E1%B2%F1%F3%FF%E2%FD%E1%B2%F6%F7%FE%B2%F4%FD%E0%FF%E7%FE%F3%E0%FB%FD%AD%B0%EF%EF</div><div class="listacotejo-bns js-hidden">Navegador incompatible</div></div>]]></htmlView>
-          <jsonProperties><![CDATA[{"typeGame":"Cotejo","id":"202591621205-120","title":"Las siguientes actividades son fundamentales en el tema","subtitle":"","levels":[{"type":"3","nivel":"0","item":"Fracciones en la recta","points":""},{"type":"0","nivel":"1","item":"<span style=\"background-color: rgb(255, 255, 255);\">Dibujar fracciones en la recta</span>","points":""},{"type":"0","nivel":"1","item":"Conocer qué fracción es un punto de la recta","points":""},{"type":"3","nivel":"0","item":"Fracciones y decimales","points":""},{"type":"0","nivel":"1","item":"De fracción a decimal ¿Qué tipo de decimal es?","points":""},{"type":"0","nivel":"1","item":"<span style=\"background-color: rgb(255, 255, 255);\">De fracción a decimal ¿Qué tipo de decimal es? (2)</span>","points":""},{"type":"0","nivel":"1","item":"Calculadora de fracciones generatrices&nbsp;","points":""},{"type":"0","nivel":"1","item":"<span style=\"background-color: rgb(255, 255, 255);\">Evalúa si sabes pasar a fracción</span>","points":""},{"type":"3","nivel":"0","item":"Tipos de números","points":""},{"type":"0","nivel":"1","item":"Distintos tipos de números<br>Realizar el test de conocimientos sobre tipos de números","points":""},{"type":"3","nivel":"0","item":"Factores primos y mcm - MCD","points":""},{"type":"0","nivel":"1","item":"<span style=\"background-color: rgb(255, 255, 255);\">Repasa la descomposición en factores</span>","points":""},{"type":"0","nivel":"1","item":"Repasa el cálculo del mcm y MCD","points":""}],"hasLogo":false,"urlLogo":"","hasCommunity":false,"urlCommunity":"","hasDecorative":true,"urlDecorative":"","saveData":false,"userData":false,"footer":"Esta <a href=https://es.wikipedia.org/wiki/Lista_de_comprobaci%C3%B3n>lista de cotejo</a> se encuentra bajo una licencia</br><a href=http://creativecommons.org/licenses/by-sa/4.0>Creative Commons Reconocimiento-Compartir igual 4.0 International License</a>","useScore":false,"msgs":{"msgComplit":"Completadas","msgDone":"Hecho","msgInProgress":"En proceso","msgUnrealized":"Sin completar","msgtaskNumber":"Número de tareas","msgName":"Nombre","msgDate":"Fecha","msgSave":"Descargar","msgList":"lista_de_cotejo","msgScore":"Puntuación","msgPoints":"puntos","msgPoint":"punto","msgReboot":"Reiniciar","msgDelete":"¿Seguro que desea borrar todos los campos del formulario?"}}]]></jsonProperties>
-          <odeComponentsOrder>1</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-    <odePagStructure>
-      <odePageId>page-mt6x3dke-ghg9pj2tg</odePageId>
       <odeBlockId>block-mtre5be9-b0qa3of26</odeBlockId>
       <blockName>Materiales del tema</blockName>
       <iconName>udl_eng_descarga</iconName>
-      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -793,10 +739,65 @@ $("p.toggle-idevice a").click();
     <ul>
 <li><a href="https://cloud.educa.madrid.org/s/JtW8kBDM7z4qCyn" target="_blank" title="" rel="noopener">Ficha 1: De las fracciones a los decimales</a></li>
 <li><a href="https://cloud.educa.madrid.org/s/b3NiAD2xQAFnFCZ" target="_blank" title="" rel="noopener">Ficha 2: De los decimales a las fracciones</a></li>
+<li><a href="https://cloud.educa.madrid.org/s/8MZAdMSn3qjpMF5" target="_blank" title="" rel="noopener">Dibujando números en la recta real</a></li>
 </ul>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1788794647253-at4vubmzf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><a href=\"https://cloud.educa.madrid.org/s/JtW8kBDM7z4qCyn\" target=\"_blank\" title=\"\" rel=\"noopener\">Ficha 1: De las fracciones a los decimales</a></li>\n<li><a href=\"https://cloud.educa.madrid.org/s/b3NiAD2xQAFnFCZ\" target=\"_blank\" title=\"\" rel=\"noopener\">Ficha 2: De los decimales a las fracciones</a></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1788794647253-at4vubmzf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><a href=\"https://cloud.educa.madrid.org/s/JtW8kBDM7z4qCyn\" target=\"_blank\" title=\"\" rel=\"noopener\">Ficha 1: De las fracciones a los decimales</a></li>\n<li><a href=\"https://cloud.educa.madrid.org/s/b3NiAD2xQAFnFCZ\" target=\"_blank\" title=\"\" rel=\"noopener\">Ficha 2: De los decimales a las fracciones</a></li>\n<li><a href=\"https://cloud.educa.madrid.org/s/8MZAdMSn3qjpMF5\" target=\"_blank\" title=\"\" rel=\"noopener\">Dibujando números en la recta real</a></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mt6x3dke-ghg9pj2tg</odePageId>
+      <odeBlockId>block-mt6x3dkg-zpbuexv4f</odeBlockId>
+      <blockName>Nociones a dominar en el tema</blockName>
+      <iconName>udl_exp_cuestionario</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mt6x3dke-ghg9pj2tg</odePageId>
+          <odeBlockId>block-mt6x3dkg-zpbuexv4f</odeBlockId>
+          <odeIdeviceId>idevice-mt6x3dkg-bthaglh91</odeIdeviceId>
+          <odeIdeviceTypeName>checklist</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="listacotejo-IDevice"><div class="listacotejo-instructions CTJ-instructions"><p>Completa la lista de cotejo marcando las casillas cuando domines los contenidos del tema</p></div><div class="listacotejo-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%E6%F7%F8%FD%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%FF%E6%A4%EA%A1%F6%F9%F5%BF%F0%E6%FA%F3%F5%FE%FA%AB%A3%B0%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%DE%FD%E1%B2%E1%FB%F5%E7%FB%F7%FC%E6%F7%E1%B2%F1%FD%FC%E6%F7%FC%FB%F6%FD%E1%B2%E1%FD%FC%B2%F7%E1%F7%FC%F1%FB%F3%FE%F7%E1%B2%F7%FC%B2%F7%FE%B2%E6%F7%FF%F3%B0%BE%B0%E1%E7%F0%E6%FB%E6%FE%F7%B0%A8%B0%B0%BE%B0%FE%F7%E4%F7%FE%E1%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%B0%A1%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D1%FE%F3%E1%FB%F4%FB%F1%F3%F1%FBa%FC%B2%F6%F7%B2%FCh%FF%F7%E0%FD%E1%B2%E0%F7%F3%FE%F7%E1%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%B2%E0%F5%F0%BA%A0%A7%A7%BE%B2%A0%A7%A7%BE%B2%A0%A7%A7%BB%A9%CE%B0%AC%DB%F6%F7%FC%E6%FB%F4%FB%F1%F3%E0%B2%FE%F3%E1%B2%F4%F3%FF%FB%FE%FB%F3%E1%B2%F6%F7%B2%FCh%FF%F7%E0%FD%E1%B2%E0%F7%F3%FE%F7%E1%B2%BA%FC%F3%E6%E7%E0%F3%FE%F7%E1%BE%B2%F7%FC%E6%F7%E0%FD%E1%BE%B2%E0%F3%F1%FB%FD%FC%F3%FE%F7%E1%BE%B2%FB%E0%E0%F3%F1%FB%FD%FC%F3%FE%F7%E1%BB%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D6%FB%E1%E6%FB%FC%F5%E7%FB%E0%B2%F1%E7s%FC%F6%FD%B2%E7%FC%B2%FCh%FF%F7%E0%FD%B2%F6%F7%F1%FB%FF%F3%FE%B2%F7%E1%B2%E0%F3%F1%FB%FD%FC%F3%FE%B2%EB%B2%F1%E7s%FC%F6%FD%B2%FB%E0%E0%F3%F1%FB%FD%FC%F3%FE%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A1%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D4%E0%F3%F1%F1%FB%FD%FC%F7%E1%B2%EB%B2%F6%F7%F1%FB%FF%F3%FE%F7%E1%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D7%FC%E6%F7%FC%F6%F7%E0%B2%E2%FD%E0%B2%E3%E7%7B%B2%E7%FC%B2%FCh%FF%F7%E0%FD%B2%E0%F3%F1%FB%FD%FC%F3%FE%B2%F7%E1%B2%F6%F7%F1%FB%FF%F3%FE%B2%F7%EA%F3%F1%E6%FD%B2%FD%B2%E2%F7%E0%FBa%F6%FB%F1%FD%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A4%BC%A5%AA%A3%A0%E2%EA%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%B2%E0%F5%F0%BA%A0%A7%A7%BE%B2%A0%A7%A7%BE%B2%A0%A7%A7%BB%A9%CE%B0%AC%C1%F7%E0%B2%F1%F3%E2%F3%E8%B2%F6%F7%B2%E2%F3%E1%F3%E0%B2%F3%B2%F4%E0%F3%F1%F1%FBa%FC%B2%FCh%FF%F7%E0%FD%E1%B2%F6%F7%F1%FB%FF%F3%FE%F7%E1%B2%F7%EA%F3%F1%E6%FD%E1%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A4%BC%A5%AA%A3%A0%E2%EA%A9%CE%B0%AC%C1%F7%E0%B2%F1%F3%E2%F3%E8%B2%F6%F7%B2%E2%F3%E1%F3%E0%B2%F3%B2%F4%E0%F3%F1%F1%FBa%FC%B2%FCh%FF%F7%E0%FD%E1%B2%F6%F7%F1%FB%FF%F3%FE%F7%E1%B2%E2%F7%E0%FBa%F6%FB%F1%FD%E1%B2%BA%E2%E7%E0%FD%E1%B2%EB%B2%FF%FB%EA%E6%FD%E1%BB%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%B2%E0%F5%F0%BA%A0%A7%A7%BE%B2%A0%A7%A7%BE%B2%A0%A7%A7%BB%A9%CE%B0%AC%C1%F3%F0%F7%E0%B2%F1a%FF%FD%B2%E1%F7%B2%FE%FE%F3%FF%F3%FC%B2%FE%F3%E1%B2%F6%FB%E1%E6%FB%FC%E6%F3%E1%B2%E2%F3%E0%E6%F7%E1%B2%F6%F7%B2%FE%FD%E1%B2%FCh%FF%F7%E0%FD%E1%B2%F6%F7%F1%FB%FF%F3%FE%F7%E1%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A1%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%C0%F7%E2%E0%F7%E1%F7%FC%E6%F3%E0%B2%FCh%FF%F7%E0%FD%E1%B2%E0%F7%F3%FE%F7%E1%B2%F7%FC%B2%FE%F3%B2%E0%F7%F1%E6%F3%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%DCh%FF%F7%E0%FD%E1%B2%F7%FC%E6%F7%E0%FD%E1%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%DB%E0%E0%F3%F1%FB%FD%FC%F3%FE%F7%E1%B2%BF%B2%C0%F3%F6%FB%F1%F3%FE%F7%E1%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D7%FC%E6%F7%FC%F6%F7%E0%B2%FE%F3%B2%F7%E1%E2%FB%E0%F3%FE%B2%F6%F7%B2%C6%F7%FD%F6%FD%E0%FD%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A1%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D4%F3%F1%E6%FD%E0%F7%E1%B2%E2%E0%FB%FF%FD%E1%B2%EB%B2%FF%F1%FF%B2%BF%B2%DF%D1%D6%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%B2%E0%F5%F0%BA%A0%A7%A7%BE%B2%A0%A7%A7%BE%B2%A0%A7%A7%BB%A9%CE%B0%AC%C0%F7%E2%F3%E1%F3%B2%FE%F3%B2%F6%F7%E1%F1%FD%FF%E2%FD%E1%FB%F1%FBa%FC%B2%F7%FC%B2%F4%F3%F1%E6%FD%E0%F7%E1%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D1s%FE%F1%E7%FE%FD%B2%FF%F7%FC%E6%F3%FE%B2%F6%F7%B2%F6%F7%E1%F1%FD%FF%E2%FD%E1%FB%F1%FB%FD%FC%F7%E1%B2%F7%FC%B2%F4%F3%F1%E6%FD%E0%F7%E1%AE%F0%E0%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%CF%BE%B0%FA%F3%E1%DE%FD%F5%FD%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%DE%FD%F5%FD%B0%A8%B0%B0%BE%B0%FA%F3%E1%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E7%E0%FE%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%B0%FA%E6%E6%E2%E1%A8%BD%BD%E5%E5%E5%BC%F7%E7%E0%FD%E1%F1%FA%FD%FD%FE%BC%FE%E7%BD%E5%E2%BF%F1%FD%FC%E6%F7%FC%E6%BD%E7%E2%FE%FD%F3%F6%E1%BD%A0%A2%A0%A3%BD%A2%A5%BD%FE%FD%F5%FD%BF%F7%E1%FE%E7%EA%FD%FC%F7%BC%E1%E4%F5%B0%BE%B0%FA%F3%E1%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%E6%E0%E7%F7%BE%B0%E7%E0%FE%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%B0%B0%BE%B0%E1%F3%E4%F7%D6%F3%E6%F3%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E1%F7%E0%D6%F3%E6%F3%B0%A8%F4%F3%FE%E1%F7%BE%B0%F4%FD%FD%E6%F7%E0%B0%A8%B0%D7%E1%E6%F3%B2%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%E1%A8%BD%BD%F7%E1%BC%E5%FB%F9%FB%E2%F7%F6%FB%F3%BC%FD%E0%F5%BD%E5%FB%F9%FB%BD%DE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%FF%E2%E0%FD%F0%F3%F1%FB%B7%D1%A1%B7%D0%A1%FC%AC%FE%FB%E1%E6%F3%B2%F6%F7%B2%F1%FD%E6%F7%F8%FD%AE%BD%F3%AC%B2%E1%F7%B2%F7%FC%F1%E7%F7%FC%E6%E0%F3%B2%F0%F3%F8%FD%B2%E7%FC%F3%B2%FE%FB%F1%F7%FC%F1%FB%F3%AE%BD%F0%E0%AC%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%A8%BD%BD%F1%E0%F7%F3%E6%FB%E4%F7%F1%FD%FF%FF%FD%FC%E1%BC%FD%E0%F5%BD%FE%FB%F1%F7%FC%E1%F7%E1%BD%F0%EB%BF%E1%F3%BD%A6%BC%A2%AC%D1%E0%F7%F3%E6%FB%E4%F7%B2%D1%FD%FF%FF%FD%FC%E1%B2%C0%F7%F1%FD%FC%FD%F1%FB%FF%FB%F7%FC%E6%FD%BF%D1%FD%FF%E2%F3%E0%E6%FB%E0%B2%FB%F5%E7%F3%FE%B2%A6%BC%A2%B2%DB%FC%E6%F7%E0%FC%F3%E6%FB%FD%FC%F3%FE%B2%DE%FB%F1%F7%FC%E1%F7%AE%BD%F3%AC%B0%BE%B0%E7%E1%F7%C1%F1%FD%E0%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%D1%FD%FF%E2%FE%FB%E6%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B0%BE%B0%FF%E1%F5%D6%FD%FC%F7%B0%A8%B0%DA%F7%F1%FA%FD%B0%BE%B0%FF%E1%F5%DB%FC%C2%E0%FD%F5%E0%F7%E1%E1%B0%A8%B0%D7%FC%B2%E2%E0%FD%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C7%FC%E0%F7%F3%FE%FB%E8%F7%F6%B0%A8%B0%C1%FB%FC%B2%F1%FD%FF%E2%FE%F7%E6%F3%E0%B0%BE%B0%FF%E1%F5%E6%F3%E1%F9%DC%E7%FF%F0%F7%E0%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E6%F3%E0%F7%F3%E1%B0%BE%B0%FF%E1%F5%DC%F3%FF%F7%B0%A8%B0%DC%FD%FF%F0%E0%F7%B0%BE%B0%FF%E1%F5%D6%F3%E6%F7%B0%A8%B0%D4%F7%F1%FA%F3%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%B0%A8%B0%D6%F7%E1%F1%F3%E0%F5%F3%E0%B0%BE%B0%FF%E1%F5%DE%FB%E1%E6%B0%A8%B0%FE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%E6%F7%F8%FD%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%B0%A8%B0%E2%E7%FC%E6%FD%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C0%F7%FB%FC%FB%F1%FB%F3%E0%B0%BE%B0%FF%E1%F5%D6%F7%FE%F7%E6%F7%B0%A8%B0-%C1%F7%F5%E7%E0%FD%B2%E3%E7%F7%B2%F6%F7%E1%F7%F3%B2%F0%FD%E0%E0%F3%E0%B2%E6%FD%F6%FD%E1%B2%FE%FD%E1%B2%F1%F3%FF%E2%FD%E1%B2%F6%F7%FE%B2%F4%FD%E0%FF%E7%FE%F3%E0%FB%FD%AD%B0%EF%EF</div><div class="listacotejo-bns js-hidden">Unsupported browser</div><img src="https://www.euroschool.lu/wp-content/uploads/2021/07/logo-esluxone.svg" class="js-hidden listacotejo-LinkCommunity" alt="Community" /></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"typeGame":"Cotejo","id":"202591621205-120","title":"Las siguientes actividades son fundamentales en el tema","subtitle":"","levels":[{"type":"3","nivel":"0","item":"Fracciones en la recta","points":""},{"type":"0","nivel":"1","item":"<span style=\"background-color: rgb(255, 255, 255);\">Dibujar fracciones en la recta</span>","points":""},{"type":"0","nivel":"1","item":"Conocer qué fracción es un punto de la recta","points":""},{"type":"3","nivel":"0","item":"Fracciones y decimales","points":""},{"type":"0","nivel":"1","item":"De fracción a decimal ¿Qué tipo de decimal es?","points":""},{"type":"0","nivel":"1","item":"<span style=\"background-color: rgb(255, 255, 255);\">De fracción a decimal ¿Qué tipo de decimal es? (2)</span>","points":""},{"type":"0","nivel":"1","item":"Calculadora de fracciones generatrices&nbsp;","points":""},{"type":"0","nivel":"1","item":"<span style=\"background-color: rgb(255, 255, 255);\">Evalúa si sabes pasar a fracción</span>","points":""},{"type":"3","nivel":"0","item":"Tipos de números","points":""},{"type":"0","nivel":"1","item":"Distintos tipos de números<br>Realizar el test de conocimientos sobre tipos de números","points":""},{"type":"3","nivel":"0","item":"Factores primos y mcm - MCD","points":""},{"type":"0","nivel":"1","item":"<span style=\"background-color: rgb(255, 255, 255);\">Repasa la descomposición en factores</span>","points":""},{"type":"0","nivel":"1","item":"Repasa el cálculo del mcm y MCD","points":""}],"hasLogo":false,"urlLogo":"","hasCommunity":false,"urlCommunity":"","hasDecorative":true,"urlDecorative":"","saveData":false,"userData":false,"footer":"Esta <a href=https://es.wikipedia.org/wiki/Lista_de_comprobaci%C3%B3n>lista de cotejo</a> se encuentra bajo una licencia</br><a href=http://creativecommons.org/licenses/by-sa/4.0>Creative Commons Reconocimiento-Compartir igual 4.0 International License</a>","useScore":false,"msgs":{"msgComplit":"Completadas","msgDone":"Hecho","msgInProgress":"En proceso","msgUnrealized":"Sin completar","msgtaskNumber":"Número de tareas","msgName":"Nombre","msgDate":"Fecha","msgSave":"Descargar","msgList":"lista_de_cotejo","msgScore":"Puntuación","msgPoints":"puntos","msgPoint":"punto","msgReboot":"Reiniciar","msgDelete":"¿Seguro que desea borrar todos los campos del formulario?"}}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
               <key>visibility</key>
@@ -1504,9 +1505,9 @@ $("p.toggle-idevice a").click();
   <odePagStructures>
     <odePagStructure>
       <odePageId>page-mt6x3dke-gfjooq39d</odePageId>
-      <odeBlockId>block-mt6x3dkh-q7ey9tgci</odeBlockId>
-      <blockName>Repasa el cálculo del MCD y mcm</blockName>
-      <iconName>udl_rep_destacado</iconName>
+      <odeBlockId>block-mt6x3dkh-phyc3i6kx</odeBlockId>
+      <blockName>Practica la factorización de números</blockName>
+      <iconName>udl_exp_escribe</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1523,61 +1524,7 @@ $("p.toggle-idevice a").click();
         </odePagStructureProperty>
         <odePagStructureProperty>
           <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>page-mt6x3dke-gfjooq39d</odePageId>
-          <odeBlockId>block-mt6x3dkh-q7ey9tgci</odeBlockId>
-          <odeIdeviceId>idevice-mt6x3dkh-ndsqkzi7j</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<p><a href="https://www.geogebra.org/m/rqx8vcxu" target="_blank" rel="noopener">En este enlace</a> puedes comprobar si sabes calcular el mcm y MCD (mediante diagramas de Venn).</p>]]></htmlView>
-          <jsonProperties><![CDATA[{"textTextarea":"<p><a href=\"https://www.geogebra.org/m/rqx8vcxu\" target=\"_blank\" rel=\"noopener\">En este enlace</a> puedes comprobar si sabes calcular el mcm y MCD (mediante diagramas de Venn).</p>"}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-    <odePagStructure>
-      <odePageId>page-mt6x3dke-gfjooq39d</odePageId>
-      <odeBlockId>block-mt6x3dkh-phyc3i6kx</odeBlockId>
-      <blockName>Practica la factorización de números</blockName>
-      <iconName>udl_exp_escribe</iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
           <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
         </odePagStructureProperty>
         <odePagStructureProperty>
           <key>cssClass</key>
@@ -1614,6 +1561,156 @@ $("p.toggle-idevice a").click();
               <key>cssClass</key>
               <value></value>
             </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mt6x3dke-gfjooq39d</odePageId>
+      <odeBlockId>block-mu12tah1-ip2c6qwr8</odeBlockId>
+      <blockName>Descomposición en factores: cálculo mental</blockName>
+      <iconName>udl_sup_reflexion</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mt6x3dke-gfjooq39d</odePageId>
+          <odeBlockId>block-mu12tah1-ip2c6qwr8</odeBlockId>
+          <odeIdeviceId>idevice-1789380272195-y4f7k7vqx</odeIdeviceId>
+          <odeIdeviceTypeName>geogebra-activity</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="auto-geogebra auto-geogebra-drqzzb55 auto-geogebra-scale-100 auto-geogebra-evaluation-id-0 auto-geogebra-ideviceid-idevice-1789380272195-y4f7k7vqx auto-geogebra-weight-100"><div class="game-evaluation-ids js-hidden" data-id="idevice-1789380272195-y4f7k7vqx" data-evaluationb="false" data-evaluationid="0"></div><p><a href="https://www.geogebra.org/m/drqzzb55" target="_blank">https://www.geogebra.org/m/drqzzb55 (New Window)</a></p><div class="auto-geogebra-author js-hidden">%u2026,https%3A//www.geogebra.org/m/drqzzb55,%u2026,1,Autor%EDa,1,T%EDtulo</div><div class="auto-geogebra-messages-evaluation">Actividad%20no%20completada,Actividad%20superada.%20Puntuaci%F3n%3A%20%25s,Actividad%20no%20superada.%20Puntuaci%F3n%3A%20%25s,Guardar%20la%20puntuaci%F3n</div><div class="auto-geogebra-messages-scorm">La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20de%20un%20paquete%20SCORM,Su%20puntuaci%F3n,Puntuaci%F3n,Peso,La%20%FAltima%20puntuaci%F3n%20guardada%20es</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mt6x3dke-gfjooq39d</odePageId>
+      <odeBlockId>block-mt6x3dkh-q7ey9tgci</odeBlockId>
+      <blockName>Repasa el cálculo del MCD y mcm</blockName>
+      <iconName>udl_rep_destacado</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mt6x3dke-gfjooq39d</odePageId>
+          <odeBlockId>block-mt6x3dkh-q7ey9tgci</odeBlockId>
+          <odeIdeviceId>idevice-mt6x3dkh-ndsqkzi7j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><a href="https://www.geogebra.org/m/rqx8vcxu" target="_blank" rel="noopener">En este enlace</a> puedes comprobar si sabes calcular el mcm y MCD (mediante diagramas de Venn).</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><a href=\"https://www.geogebra.org/m/rqx8vcxu\" target=\"_blank\" rel=\"noopener\">En este enlace</a> puedes comprobar si sabes calcular el mcm y MCD (mediante diagramas de Venn).</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mt6x3dke-gfjooq39d</odePageId>
+      <odeBlockId>block-mu27b1oi-halktjvio</odeBlockId>
+      <blockName>Cálculo de MCD y mcm: cálculo mental</blockName>
+      <iconName>udl_sup_reflexion</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mt6x3dke-gfjooq39d</odePageId>
+          <odeBlockId>block-mu27b1oi-halktjvio</odeBlockId>
+          <odeIdeviceId>idevice-1789448285248-82hroq27c</odeIdeviceId>
+          <odeIdeviceTypeName>geogebra-activity</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="auto-geogebra auto-geogebra-d5p8xxcg auto-geogebra-scale-100 auto-geogebra-evaluation-id-0 auto-geogebra-ideviceid-idevice-1789448285248-82hroq27c auto-geogebra-weight-100"><div class="game-evaluation-ids js-hidden" data-id="idevice-1789448285248-82hroq27c" data-evaluationb="false" data-evaluationid="0"></div><p><a href="https://www.geogebra.org/m/d5p8xxcg" target="_blank">https://www.geogebra.org/m/d5p8xxcg (Ventana nueva)</a></p><div class="auto-geogebra-author js-hidden">%u2026,https%3A//www.geogebra.org/m/d5p8xxcg,%u2026,1,Autor%EDa,1,T%EDtulo</div><div class="auto-geogebra-messages-evaluation">Actividad%20no%20completada,Actividad%20superada.%20Puntuaci%F3n%3A%20%25s,Actividad%20no%20superada.%20Puntuaci%F3n%3A%20%25s,Guardar%20la%20puntuaci%F3n</div><div class="auto-geogebra-messages-scorm">La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20de%20un%20paquete%20SCORM,Su%20puntuaci%F3n,Puntuaci%F3n,Peso,La%20%FAltima%20puntuaci%F3n%20guardada%20es</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
